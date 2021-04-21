@@ -1073,6 +1073,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2021-04-20 21:21:30 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:19:50 -0400"
@@ -1945,6 +1951,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2021-04-19 20:56:36 -0400",
+      "minecraft:cow": "2021-04-20 21:17:56 -0400",
       "minecraft:chicken": "2021-04-18 19:55:58 -0400"
     },
     "done": false
@@ -3643,6 +3651,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2021-04-20 22:21:22 -0400",
+      "minecraft:creeper": "2021-04-20 22:21:25 -0400",
       "minecraft:phantom": "2021-04-18 21:23:23 -0400",
       "minecraft:zombie": "2021-04-18 20:19:38 -0400",
       "minecraft:drowned": "2021-04-18 21:26:39 -0400"

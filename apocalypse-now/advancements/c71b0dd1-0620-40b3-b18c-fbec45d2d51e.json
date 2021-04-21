@@ -2003,6 +2003,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2021-04-19 20:57:38 -0400"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:15:20 -0400"
@@ -3719,7 +3725,8 @@
       "minecraft:skeleton": "2021-04-18 20:18:33 -0400",
       "minecraft:creeper": "2021-04-18 20:13:40 -0400",
       "minecraft:phantom": "2021-04-18 21:06:11 -0400",
-      "minecraft:husk": "2021-04-18 22:45:18 -0400"
+      "minecraft:husk": "2021-04-18 22:45:18 -0400",
+      "minecraft:zombie": "2021-04-19 21:12:54 -0400"
     },
     "done": false
   },
@@ -4453,6 +4460,7 @@
       "minecraft:bamboo_jungle": "2021-04-18 22:36:51 -0400",
       "minecraft:savanna_plateau": "2021-04-18 22:49:58 -0400",
       "minecraft:river": "2021-04-18 19:31:34 -0400",
+      "minecraft:bamboo_jungle_hills": "2021-04-19 21:30:35 -0400",
       "minecraft:savanna": "2021-04-18 22:37:33 -0400"
     },
     "done": false
@@ -6284,6 +6292,12 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:15:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2021-04-19 20:57:38 -0400"
     },
     "done": true
   },
