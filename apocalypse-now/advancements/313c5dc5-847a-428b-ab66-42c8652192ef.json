@@ -2574,6 +2574,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2021-04-23 16:07:58 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:20:05 -0400"
@@ -2631,6 +2637,12 @@
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:20:05 -0400"
+    },
+    "done": true
+  },
+  "endrem:main/powered_core": {
+    "criteria": {
+      "powered_core": "2021-04-22 19:50:36 -0400"
     },
     "done": true
   },
@@ -2793,6 +2805,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:20:05 -0400"
+    },
+    "done": true
+  },
+  "endrem:main/end_crystal_armor": {
+    "criteria": {
+      "end_crystal_armor": "2021-04-23 18:44:21 -0400"
     },
     "done": true
   },
@@ -3956,6 +3974,12 @@
   "biomesoplenty:recipes/redstone/dead_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:20:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2021-04-23 17:22:54 -0400"
     },
     "done": true
   },
@@ -5677,6 +5701,12 @@
   "biomesoplenty:recipes/building_blocks/black_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:20:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2021-04-22 23:21:42 -0400"
     },
     "done": true
   },

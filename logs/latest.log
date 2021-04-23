@@ -1,351 +1,148 @@
-[21Apr2021 12:19:42.829] [User Authenticator #31/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Gnot is a996b7a2-d9ad-487a-b316-56bed66b77f0
-[21Apr2021 12:19:45.155] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@10bb509
-[21Apr2021 12:19:45.179] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Gnot[/0:0:0:0:0:0:0:1:5245] logged in with entity id 104413 at (312.6828320749471, 64.0, -37.34282826395945)
-[21Apr2021 12:19:45.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot joined the game
-[21Apr2021 12:19:51.809] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[21Apr2021 12:31:51.091] [User Authenticator #32/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Quik_Maffs is 157405a9-fa66-48c8-a2f4-8cb8f985c97a
-[21Apr2021 12:31:53.264] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3415ad29
-[21Apr2021 12:31:53.284] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Quik_Maffs[/0:0:0:0:0:0:0:1:5267] logged in with entity id 105702 at (303.5099175218482, 64.0, -37.92754824499247)
-[21Apr2021 12:31:53.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Quik_Maffs joined the game
-[21Apr2021 12:31:58.884] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[21Apr2021 12:32:09.963] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Gnot lost connection: Disconnected
-[21Apr2021 12:32:09.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot left the game
-[21Apr2021 12:39:48.823] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID c2051e24-ec21-48bd-944c-9834ba70da32. Existing minecraft:sheep#107983, new: minecraft:sheep#107986
-[21Apr2021 12:39:48.824] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 87244e2a-2f5b-41f6-aaea-6cb0d8c44966. Existing minecraft:sheep#107982, new: minecraft:sheep#107987
-[21Apr2021 12:39:48.825] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID d1983e6c-f07c-40ca-811d-d3b33722186c. Existing minecraft:pig#107984, new: minecraft:pig#107988
-[21Apr2021 12:39:48.825] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 015f9c43-0b84-41da-a788-68f7f239f40c. Existing minecraft:pig#107985, new: minecraft:pig#107989
-[21Apr2021 12:48:21.413] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[21Apr2021 12:48:21.414] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[21Apr2021 12:48:21.414] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[21Apr2021 12:48:21.415] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[21Apr2021 12:48:21.416] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[21Apr2021 12:48:21.416] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[21Apr2021 12:48:21.417] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[21Apr2021 12:48:21.417] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[21Apr2021 12:48:21.417] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[21Apr2021 12:48:21.418] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[21Apr2021 12:48:21.418] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[21Apr2021 12:48:21.419] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[21Apr2021 12:49:33.567] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 5.8469211074813074,0.0,-8.560787584541231
-[21Apr2021 12:49:33.568] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 6.0630260203821535,0.0,-8.897072685349713
-[21Apr2021 12:49:33.569] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 6.278868477391484,0.0,-9.233556196645395
-[21Apr2021 12:49:33.570] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 6.494474724104748,0.0,-9.570218277375034
-[21Apr2021 12:49:33.571] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 6.709868381557158,0.0,-9.907041070590822
-[21Apr2021 12:49:33.572] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 6.925070708679868,0.0,-10.244008505040256
-[21Apr2021 12:49:33.573] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 7.140100838510534,0.0,-10.58110611659663
-[21Apr2021 12:49:33.574] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 7.354975990782236,0.0,-10.918320887546088
-[21Apr2021 12:49:33.575] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 7.569711663254793,0.0,-11.255641101946594
-[21Apr2021 12:49:33.576] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 7.784321803911325,0.0,-11.59305621545036
-[21Apr2021 12:49:33.577] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 7.977470925385433,0.0,-11.896729809559247
-[21Apr2021 12:56:26.446] [User Authenticator #33/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Gnot is a996b7a2-d9ad-487a-b316-56bed66b77f0
-[21Apr2021 12:56:28.716] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7470a74e
-[21Apr2021 12:56:28.738] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Gnot[/0:0:0:0:0:0:0:1:5322] logged in with entity id 112827 at (303.75347410079746, 64.0, -40.63765804767545)
-[21Apr2021 12:56:28.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot joined the game
-[21Apr2021 12:56:32.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Quik_Maffs> hey
-[21Apr2021 12:56:34.369] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[21Apr2021 12:56:40.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> hey
-[21Apr2021 12:56:42.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> back aain
-[21Apr2021 12:57:15.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Quik_Maffs> I thought I gave u a mini heart attack when I showed up through the door
-[21Apr2021 12:57:17.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Quik_Maffs> lol
-[21Apr2021 12:57:21.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> lol
-[21Apr2021 12:57:40.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> oh btw, did Bill ask you about the MCAT driving?
-[21Apr2021 12:57:46.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Quik_Maffs> no
-[21Apr2021 12:58:00.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Quik_Maffs> as in distance?
-[21Apr2021 12:58:05.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> so he's driving to Concord I think 2 saturdays from now
-[21Apr2021 12:58:13.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> and it's a long ass drive and late too
-[21Apr2021 12:58:18.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Quik_Maffs> Concord NH?
-[21Apr2021 12:58:25.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> especially given how long the test is
-[21Apr2021 12:58:27.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> yeah
-[21Apr2021 12:58:31.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Quik_Maffs> ooh dang
-[21Apr2021 12:58:51.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> and I was wondering, since you and Kev enjoy driving around and are potentially free, y'all might be interested to drive him
-[21Apr2021 12:59:04.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Quik_Maffs> honestly yeah I think we'd be down
-[21Apr2021 12:59:09.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> drop him off, chill out in NH, then pick him up at around 10-11PM
-[21Apr2021 12:59:13.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> whenever the test finishes
-[21Apr2021 12:59:26.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> that's the kicker though, it finishes pretty late
-[21Apr2021 12:59:46.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
-[21Apr2021 12:59:46.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: :/list<--[HERE]
-[21Apr2021 12:59:49.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 2 of a max of 20 players online: Quik_Maffs, Gnot
-[21Apr2021 12:59:59.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Quik_Maffs> yeah, that IS pretty late
-[21Apr2021 13:00:05.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Quik_Maffs> hmm should be fine regardless
-[21Apr2021 13:00:06.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 2 of a max of 20 players online: Quik_Maffs, Gnot
-[21Apr2021 13:00:09.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> the alternative though is him driving back
-[21Apr2021 13:00:11.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> alone
-[21Apr2021 13:00:20.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] bruh u playing during a meeting?
-[21Apr2021 13:00:25.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> nah, meeting over
-[21Apr2021 13:00:38.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Quik_Maffs> Yeah no I'd be happy to drive him
-[21Apr2021 13:00:44.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] we talking about the bill thing again?
-[21Apr2021 13:00:44.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> what about you Kevin?
-[21Apr2021 13:00:47.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> yeah
-[21Apr2021 13:00:57.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] it's a long time
-[21Apr2021 13:01:06.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> hence why 2 drivers is better than 1
-[21Apr2021 13:01:23.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] like one person drops one person extracts?
-[21Apr2021 13:01:28.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] that makes sense
-[21Apr2021 13:01:35.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> if that's easier, then sure
-[21Apr2021 13:01:50.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] well 3-11 is a long time to just stay there so realistic i'd have to do something else
-[21Apr2021 13:02:03.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] if I drive back home and then there again that's like 4 hours total
-[21Apr2021 13:02:13.157] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[21Apr2021 13:02:13.158] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[21Apr2021 13:02:13.159] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[21Apr2021 13:02:13.160] [Server thread/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
-[21Apr2021 13:02:13.161] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[21Apr2021 13:02:13.161] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[21Apr2021 13:02:13.162] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[21Apr2021 13:02:13.163] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[21Apr2021 13:02:13.163] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[21Apr2021 13:02:13.164] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[21Apr2021 13:02:13.164] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[21Apr2021 13:02:13.165] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[21Apr2021 13:02:13.165] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[21Apr2021 13:02:13.167] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[21Apr2021 13:02:13.168] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[21Apr2021 13:02:13.168] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[21Apr2021 13:02:13.169] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[21Apr2021 13:02:13.170] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[21Apr2021 13:02:13.171] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[21Apr2021 13:02:13.171] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[21Apr2021 13:02:13.172] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[21Apr2021 13:02:13.173] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[21Apr2021 13:02:13.173] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[21Apr2021 13:02:13.174] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[21Apr2021 13:02:13.174] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[21Apr2021 13:02:30.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> I'll leave that up to the drivers
-[21Apr2021 13:02:36.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] someone's swimming
-[21Apr2021 13:02:39.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> so you and Alex can coordinate that with Bill
-[21Apr2021 13:02:44.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Quik_Maffs> ooh mesa biome
-[21Apr2021 13:02:56.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] I'm assuming he's asking cause he can't do this himself?
-[21Apr2021 13:03:15.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> he's playing it chivalrous by not making a fuss
-[21Apr2021 13:03:28.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> but he'd be driving himself there, taking the long ass exam and driving back alone otherwise
-[21Apr2021 13:03:43.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] tbh I wouldn't have oto drive back after a 8 hour test even with my own car
-[21Apr2021 13:03:46.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] yeah
-[21Apr2021 13:04:05.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] lol I have to put "say" in front of server message so "yeah" becomes "say yeah"
-[21Apr2021 13:04:13.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> lol
-[21Apr2021 13:04:30.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] from a practical standpoint I feel like one person drops one person picks up makes sense
-[21Apr2021 13:04:34.872] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 9.087941542408544,0.0,-5.056603776659358
-[21Apr2021 13:04:34.873] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 9.437478106616936,0.0,-5.251087963168175
-[21Apr2021 13:04:34.874] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 9.787014678509763,0.0,-5.445572137107774
-[21Apr2021 13:04:34.875] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 10.136551257318501,0.0,-5.640056299736898
-[21Apr2021 13:04:34.876] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 10.486087842351708,0.0,-5.834540452186047
-[21Apr2021 13:04:34.877] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 10.835624432986833,0.0,-6.029024595472947
-[21Apr2021 13:04:34.878] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 11.185161028663629,0.0,-6.223508730513458
-[21Apr2021 13:04:34.879] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 11.534697628878007,0.0,-6.4179928581334025
-[21Apr2021 13:04:34.879] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 11.884234233176244,0.0,-6.612476979073108
-[21Apr2021 13:04:34.881] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 12.233770841149862,0.0,-6.806961094001963
-[21Apr2021 13:04:34.882] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 12.583307452431427,0.0,-7.001445203521143
-[21Apr2021 13:04:34.883] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 12.932844066690109,0.0,-7.195929308170889
-[21Apr2021 13:04:34.884] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 13.282380683628162,0.0,-7.39041340843869
-[21Apr2021 13:04:34.885] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 13.631917302977627,0.0,-7.5848975047620115
-[21Apr2021 13:04:34.886] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 13.981453924497487,0.0,-7.779381597536485
-[21Apr2021 13:04:34.887] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 14.3309905479706,0.0,-7.973865687115904
-[21Apr2021 13:04:34.887] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 14.680527173201654,0.0,-8.1683497738195
-[21Apr2021 13:04:34.889] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 15.030063800014887,0.0,-8.362833857936494
-[21Apr2021 13:04:34.889] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 15.379600428252047,0.0,-8.557317939724271
-[21Apr2021 13:04:34.890] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 15.729137057770686,0.0,-8.751802019415663
-[21Apr2021 13:04:34.891] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 16.07867368844279,0.0,-8.946286097220764
-[21Apr2021 13:04:34.892] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 16.428210320152857,0.0,-9.140770173328747
-[21Apr2021 13:04:34.893] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 16.7777469527972,0.0,-9.33525424790787
-[21Apr2021 13:04:34.894] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 17.127283586282374,0.0,-9.529738321112745
-[21Apr2021 13:04:34.894] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 17.476820220524246,0.0,-9.72422239307889
-[21Apr2021 13:04:34.895] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Gnot moved too quickly! 10.033498765835645,0.0,-1.6772025740235819
-[21Apr2021 13:04:34.896] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 17.826356855447216,0.0,-9.918706463931812
-[21Apr2021 13:04:34.897] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 18.175893490983185,0.0,-10.113190533782472
-[21Apr2021 13:04:34.897] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 18.525430127070763,0.0,-10.307674602730003
-[21Apr2021 13:04:34.898] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 18.87496676365481,0.0,-10.502158670866265
-[21Apr2021 13:04:34.898] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 19.224503400685762,0.0,-10.696642738271294
-[21Apr2021 13:04:34.899] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 19.574040038118824,0.0,-10.891126805018757
-[21Apr2021 13:04:34.900] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 19.923576675913864,0.0,-11.08561087117414
-[21Apr2021 13:04:34.901] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 20.273113314034617,0.0,-11.280094936796559
-[21Apr2021 13:04:34.901] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 20.62264995244857,0.0,-11.474579001939674
-[21Apr2021 13:04:34.902] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 20.972186591126388,0.0,-11.669063066651688
-[21Apr2021 13:04:34.903] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 21.321723230041698,0.0,-11.863547130974439
-[21Apr2021 13:04:34.904] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 21.67125986917074,0.0,-12.058031194947944
-[21Apr2021 13:04:34.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3071ms or 61 ticks behind
-[21Apr2021 13:04:34.944] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 13.282391521753766,0.0,-7.390395682420603
-[21Apr2021 13:04:34.959] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Quik_Maffs) moved too quickly! 13.631928161248311,0.0,-7.58487974579657
-[21Apr2021 13:04:47.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] i dunno what i could do 3 - 11 
-[21Apr2021 13:04:52.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] OH GOD BOAT ZOOMIN
-[21Apr2021 13:04:58.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Quik_Maffs> yeee
-[21Apr2021 13:05:05.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Quik_Maffs> am i going too far
-[21Apr2021 13:05:16.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] nah boat errors are normal
-[21Apr2021 13:05:36.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] lol there's a single "tong moved too quickly" in between all the boats
-[21Apr2021 13:06:18.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Quik_Maffs> woah village in "glowshoom bayou" biome
-[21Apr2021 13:06:29.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] IN DA BAYOU
-[21Apr2021 13:06:35.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Quik_Maffs> UNDA DA SEA
-[21Apr2021 13:07:02.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Quik_Maffs> slp?
-[21Apr2021 13:07:05.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> sure
-[21Apr2021 13:07:58.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] kimchi you got any ideas for what to do for that long of a time?
-[21Apr2021 13:08:08.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Quik_Maffs> we could drive the white mountains
-[21Apr2021 13:08:15.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> at night?
-[21Apr2021 13:08:17.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] ideally something that doesn't leave us as tired as bill is by 11
-[21Apr2021 13:08:19.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Quik_Maffs> it'll be sus
-[21Apr2021 13:08:26.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] night driving is more fun lmao
-[21Apr2021 13:08:30.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Quik_Maffs> fair lol
-[21Apr2021 13:08:42.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] it's 8 hours like that's so much
-[21Apr2021 13:08:49.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] hard to deal with
-[21Apr2021 13:09:03.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] how tf are you supposd to test for 8 hours like wtf this is not how the human brain works
-[21Apr2021 13:09:19.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Quik_Maffs> its how med school works, so its a good filter for that
-[21Apr2021 13:10:41.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] you know for a field entirely about how people work it doesn't seem very humane
-[21Apr2021 13:11:07.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Quik_Maffs> guy who developed the whole system was a crack addict
-[21Apr2021 13:11:10.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Quik_Maffs> literally
-[21Apr2021 13:11:23.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] you know they could change it
-[21Apr2021 13:11:37.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Quik_Maffs> mix in a little "protestant work ethic" and you got a recipe for "proud tradition >:("
-[21Apr2021 13:12:00.613] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Quik_Maffs lost connection: Disconnected
-[21Apr2021 13:12:00.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Quik_Maffs left the game
-[21Apr2021 13:12:48.462] [User Authenticator #34/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Areth6 is 313c5dc5-847a-428b-ab66-42c8652192ef
-[21Apr2021 13:12:51.276] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@18143818
-[21Apr2021 13:12:51.297] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Areth6[/0:0:0:0:0:0:0:1:5368] logged in with entity id 122037 at (311.7128243316864, 70.0, -32.43294424584543)
-[21Apr2021 13:12:51.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 joined the game
-[21Apr2021 13:12:57.735] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[21Apr2021 13:13:21.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] lmao swapping playerss
-[21Apr2021 13:13:23.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 2 of a max of 20 players online: Gnot, Areth6
-[21Apr2021 13:13:27.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> yooo
-[21Apr2021 13:13:30.407] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/122097, l='ServerLevel[apocalypse-now]', x=304.19, y=64.00, z=-27.28]
-[21Apr2021 13:13:30.407] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/122097, l='ServerLevel[apocalypse-now]', x=304.19, y=64.00, z=-27.28]
-[21Apr2021 13:13:42.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> sup
-[21Apr2021 13:13:42.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> u got any spare emeralds?
-[21Apr2021 13:13:56.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> nope
-[21Apr2021 13:14:03.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> spent them on a diamond pick
-[21Apr2021 13:14:08.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> coal in the outer chests though
-[21Apr2021 13:14:19.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> yeah but tis 15 coal for 1 emerald...
-[21Apr2021 13:14:23.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> that's a good deal
-[21Apr2021 13:14:35.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> we have lava for smelting and charcoal for torches
-[21Apr2021 13:17:43.947] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 33fa2b51-091f-4e03-95dd-af705329102d. Existing quark:frog#122497, new: quark:frog#122497
-[21Apr2021 13:20:03.609] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 moved too quickly! -283.00628609826356,22.5,22.99824823471059
-[21Apr2021 13:20:09.686] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 moved too quickly! 283.0,-21.5,-23.0
-[21Apr2021 13:21:58.569] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 moved too quickly! -282.80000001192093,22.5,23.19999998807907
-[21Apr2021 13:22:51.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> yo I'm gonna explore the nether u want to come?
-[21Apr2021 13:23:01.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> I'm good
-[21Apr2021 13:23:22.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> oh actually can u check out the end castle and see if u can find any netherwart?
-[21Apr2021 13:25:46.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> i'd like to get some fire res potions if possible
-[21Apr2021 13:32:02.184] [User Authenticator #35/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Areth6 is 313c5dc5-847a-428b-ab66-42c8652192ef
-[21Apr2021 13:32:04.962] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 lost connection: You logged in from another location
-[21Apr2021 13:32:04.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 left the game
-[21Apr2021 13:32:05.031] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Areth6[/0:0:0:0:0:0:0:1:5427] logged in with entity id 125524 at (207.41531849573278, 43.0, -217.75514948118757)
-[21Apr2021 13:32:05.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 joined the game
-[21Apr2021 13:32:09.387] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[21Apr2021 13:32:12.162] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 lost connection: Disconnected
-[21Apr2021 13:32:12.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 left the game
-[21Apr2021 13:32:49.742] [User Authenticator #36/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Areth6 is 313c5dc5-847a-428b-ab66-42c8652192ef
-[21Apr2021 13:32:52.316] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3e4a897b
-[21Apr2021 13:32:52.336] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Areth6[/0:0:0:0:0:0:0:1:5432] logged in with entity id 125610 at (207.41531849573278, 43.0, -217.75514948118757)
-[21Apr2021 13:32:52.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 joined the game
-[21Apr2021 13:32:56.521] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[21Apr2021 13:33:25.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> yo jeff
-[21Apr2021 13:33:27.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> yo
-[21Apr2021 13:33:31.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> bought an end castle map
-[21Apr2021 13:33:33.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> new castle
-[21Apr2021 13:33:49.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> ok
-[21Apr2021 13:33:53.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> i'm gonna leave it in the chest near my enchanting table
-[21Apr2021 13:34:13.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> also, there's a travelling merchant here
-[21Apr2021 13:34:17.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> you want coral?
-[21Apr2021 13:34:32.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> I don't need, you can get for decor if u want
-[21Apr2021 13:34:40.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> hows about gunpowder?
-[21Apr2021 13:35:01.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> nah
-[21Apr2021 13:35:07.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> k gotta hop off
-[21Apr2021 13:35:09.861] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Gnot lost connection: Disconnected
-[21Apr2021 13:35:09.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot left the game
-[21Apr2021 13:39:19.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 has made the advancement [Stare Into Despair]
-[21Apr2021 13:43:27.169] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 moved too quickly! 283.2303436688055,-21.5,-23.193933359066254
-[21Apr2021 13:50:21.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 has made the advancement [Local Brewery]
-[21Apr2021 13:53:45.455] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 lost connection: Disconnected
-[21Apr2021 13:53:45.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 left the game
-[21Apr2021 15:58:16.608] [User Authenticator #37/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Areth6 is 313c5dc5-847a-428b-ab66-42c8652192ef
-[21Apr2021 15:58:24.558] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@774a2a71
-[21Apr2021 15:58:24.578] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Areth6[/0:0:0:0:0:0:0:1:5993] logged in with entity id 128519 at (312.5019630128589, 64.5625, -38.69999998807908)
-[21Apr2021 15:58:24.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 joined the game
-[21Apr2021 15:58:35.283] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[21Apr2021 16:01:30.073] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 moved too quickly! -284.0013898526194,22.5,23.009913778598055
-[21Apr2021 16:16:58.249] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 lost connection: Disconnected
-[21Apr2021 16:16:58.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 left the game
-[21Apr2021 16:24:50.561] [User Authenticator #38/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Areth6 is 313c5dc5-847a-428b-ab66-42c8652192ef
-[21Apr2021 16:24:53.256] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@17140f09
-[21Apr2021 16:24:53.278] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Areth6[/0:0:0:0:0:0:0:1:6092] logged in with entity id 130828 at (110.67065283300215, 32.0, 172.59966683446893)
-[21Apr2021 16:24:53.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 joined the game
-[21Apr2021 16:24:56.588] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[21Apr2021 16:27:20.455] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 lost connection: Disconnected
-[21Apr2021 16:27:20.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 left the game
-[21Apr2021 16:28:42.501] [User Authenticator #39/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Areth6 is 313c5dc5-847a-428b-ab66-42c8652192ef
-[21Apr2021 16:28:47.407] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@626dfddd
-[21Apr2021 16:28:47.428] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Areth6[/0:0:0:0:0:0:0:1:6106] logged in with entity id 131131 at (177.80577929546266, 42.0, 169.30000001192093)
-[21Apr2021 16:28:47.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 joined the game
-[21Apr2021 16:28:55.204] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[21Apr2021 17:09:37.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 has made the advancement [This Boat Has Legs]
-[21Apr2021 17:16:59.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 has made the advancement [Those Were the Days]
-[21Apr2021 17:22:14.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 has made the advancement [War Pigs]
-[21Apr2021 17:37:36.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 has made the advancement [Hidden in the Depths]
-[21Apr2021 17:40:58.604] [User Authenticator #40/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Areth6 is 313c5dc5-847a-428b-ab66-42c8652192ef
-[21Apr2021 17:40:59.102] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 lost connection: Disconnected
-[21Apr2021 17:40:59.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 left the game
-[21Apr2021 17:41:01.557] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2a27928a
-[21Apr2021 17:41:01.579] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Areth6[/0:0:0:0:0:0:0:1:6426] logged in with entity id 139747 at (-93.09719930591416, 55.0, -591.8053624332082)
-[21Apr2021 17:41:01.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 joined the game
-[21Apr2021 17:41:05.379] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[21Apr2021 17:44:32.052] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 lost connection: Timed out
-[21Apr2021 17:44:32.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 left the game
-[21Apr2021 17:46:53.819] [User Authenticator #41/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Areth6 is 313c5dc5-847a-428b-ab66-42c8652192ef
-[21Apr2021 17:46:56.603] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@53848925
-[21Apr2021 17:46:56.626] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Areth6[/0:0:0:0:0:0:0:1:6448] logged in with entity id 140156 at (-83.98625543923903, 44.0, -581.3319720860433)
-[21Apr2021 17:46:56.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 joined the game
-[21Apr2021 17:47:05.811] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[21Apr2021 17:56:22.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> 8+7+5+4
-[21Apr2021 17:56:28.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> 24
-[21Apr2021 18:10:25.332] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 moved too quickly! 283.1224878718226,-21.5,-23.17976358171377
-[21Apr2021 18:11:04.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 has made the advancement [Crystal Clear]
-[21Apr2021 18:22:54.055] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 lost connection: Disconnected
-[21Apr2021 18:22:54.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 left the game
-[21Apr2021 19:06:15.234] [User Authenticator #42/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Quik_Maffs is 157405a9-fa66-48c8-a2f4-8cb8f985c97a
-[21Apr2021 19:06:17.505] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5f9f5532
-[21Apr2021 19:06:17.528] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Quik_Maffs[/0:0:0:0:0:0:0:1:6703] logged in with entity id 143887 at (697.7088952004411, 63.0, -2882.531655648502)
-[21Apr2021 19:06:17.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Quik_Maffs joined the game
-[21Apr2021 19:06:23.492] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[21Apr2021 19:08:21.597] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID bd2f4f75-ff87-483d-aeb3-f016819f24e0. Existing quark:frog#144798, new: quark:frog#144798
-[21Apr2021 19:11:47.629] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[21Apr2021 19:11:47.631] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[21Apr2021 19:11:47.632] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[21Apr2021 19:11:47.633] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[21Apr2021 19:11:47.634] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[21Apr2021 19:11:47.635] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[21Apr2021 19:11:47.636] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[21Apr2021 19:11:47.637] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[21Apr2021 19:11:47.637] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[21Apr2021 19:11:47.638] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[21Apr2021 19:11:47.639] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[21Apr2021 19:11:47.640] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[21Apr2021 19:11:47.640] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[21Apr2021 19:11:47.641] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[21Apr2021 19:11:47.641] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[21Apr2021 19:11:47.642] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[21Apr2021 19:11:47.642] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[21Apr2021 19:11:47.643] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[21Apr2021 19:11:47.643] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[21Apr2021 19:11:47.643] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[21Apr2021 19:11:47.644] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[21Apr2021 19:11:47.644] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[21Apr2021 19:11:47.645] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[21Apr2021 19:11:47.645] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[21Apr2021 19:11:47.646] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[21Apr2021 19:11:47.647] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[21Apr2021 19:11:47.647] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[21Apr2021 19:11:47.648] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[21Apr2021 19:11:47.648] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[21Apr2021 19:11:47.649] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[21Apr2021 19:11:47.650] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[21Apr2021 19:11:47.650] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[21Apr2021 19:11:47.651] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[21Apr2021 19:11:58.056] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Quik_Maffs lost connection: Disconnected
-[21Apr2021 19:11:58.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Quik_Maffs left the game
-[21Apr2021 19:58:55.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
-[21Apr2021 19:58:55.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: :list<--[HERE]
-[21Apr2021 19:58:57.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
-[21Apr2021 19:59:08.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[21Apr2021 19:59:08.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[21Apr2021 19:59:08.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[21Apr2021 19:59:08.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[21Apr2021 19:59:08.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:overworld
-[21Apr2021 19:59:08.438] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apocalypse-now): All chunks are saved
-[21Apr2021 19:59:08.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:the_nether
-[21Apr2021 19:59:08.491] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21Apr2021 19:59:08.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:the_end
-[21Apr2021 19:59:08.495] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21Apr2021 19:59:08.540] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apocalypse-now): All chunks are saved
-[21Apr2021 19:59:09.064] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21Apr2021 19:59:09.178] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Apr2021 11:47:18.395] [User Authenticator #14/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Gnot is a996b7a2-d9ad-487a-b316-56bed66b77f0
+[23Apr2021 11:47:20.676] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@31b71c83
+[23Apr2021 11:47:20.697] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Gnot[/0:0:0:0:0:0:0:1:14692] logged in with entity id 75634 at (313.5114326309078, 64.0, -46.90404487936705)
+[23Apr2021 11:47:20.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot joined the game
+[23Apr2021 11:47:26.226] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[23Apr2021 12:13:39.093] [User Authenticator #15/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Areth6 is 313c5dc5-847a-428b-ab66-42c8652192ef
+[23Apr2021 12:13:42.137] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2dd30ca9
+[23Apr2021 12:13:42.158] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Areth6[/0:0:0:0:0:0:0:1:14757] logged in with entity id 78652 at (310.31184586828675, 59.0, -34.14566077350774)
+[23Apr2021 12:13:42.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 joined the game
+[23Apr2021 12:13:50.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> hey
+[23Apr2021 12:13:50.879] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[23Apr2021 12:13:54.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> how's ur redstone?
+[23Apr2021 12:13:58.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> yo
+[23Apr2021 12:14:04.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> what u mean?
+[23Apr2021 12:14:12.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> how good is your redstone skills
+[23Apr2021 12:14:28.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> its ok, what're u looking to build
+[23Apr2021 12:14:48.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> Oh shit
+[23Apr2021 12:14:54.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> take a look at the kitchen space, I'm trying to make a repeat signal to trigger a launcher
+[23Apr2021 12:14:55.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> there's a pillager squad here
+[23Apr2021 12:15:04.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> where?
+[23Apr2021 12:15:15.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> south wall
+[23Apr2021 12:15:28.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> i dont see the captain tho
+[23Apr2021 12:15:52.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> was that a cpatian?
+[23Apr2021 12:15:52.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> that's all of em
+[23Apr2021 12:15:56.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> nope
+[23Apr2021 12:16:00.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> hhuh...
+[23Apr2021 12:16:06.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> must've died already
+[23Apr2021 12:16:15.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> where u want the signal?
+[23Apr2021 12:16:23.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> follow me
+[23Apr2021 12:16:49.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> u see what I'm going for, right?
+[23Apr2021 12:16:57.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> yeah what's supposed to be launched?
+[23Apr2021 12:17:04.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> prepped food
+[23Apr2021 12:17:14.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> goes down to that chest below for people to grab
+[23Apr2021 12:17:40.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> kind of awkward to do without room tho
+[23Apr2021 12:17:57.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> that's the hard part
+[23Apr2021 12:19:29.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> u can't really do it with this space
+[23Apr2021 12:19:39.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> without it looking bad
+[23Apr2021 12:19:58.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> would a protrusion work?
+[23Apr2021 12:20:01.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> should prob extend the walls out a bit and have a bit thick walls so u can hide it
+[23Apr2021 12:20:20.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> or maybe there's something else we can use
+[23Apr2021 12:20:30.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> like just throwing it down
+[23Apr2021 12:22:46.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> what?
+[23Apr2021 12:23:14.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> i just am planning on keeping it simple
+[23Apr2021 12:23:39.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> iz also a fast way down
+[23Apr2021 12:23:50.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> ooh
+[23Apr2021 12:23:56.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> stops the constant click
+[23Apr2021 12:24:09.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> how does it work?
+[23Apr2021 12:24:18.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> comparator powers the block if theres anything in it
+[23Apr2021 12:24:27.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> ah
+[23Apr2021 12:24:33.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> dispenses the item and also turns off the comparator for a sec
+[23Apr2021 12:24:42.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> so that it pulses
+[23Apr2021 12:24:49.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> so we need 3 blocks space
+[23Apr2021 12:25:00.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> yeah I think this is the smallest one possible?
+[23Apr2021 12:25:25.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> alternatively, we can just keep the hole
+[23Apr2021 12:25:41.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> hole has a chance to miss I think
+[23Apr2021 12:26:27.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> how about now?
+[23Apr2021 12:26:38.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> do u hear the piston firing?
+[23Apr2021 12:26:45.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> nope
+[23Apr2021 12:26:50.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> are u on ground level?
+[23Apr2021 12:27:00.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> yeah
+[23Apr2021 12:27:35.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> it works!
+[23Apr2021 12:27:39.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> the hole is good
+[23Apr2021 12:28:02.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> anyway, gotta duck
+[23Apr2021 12:28:04.076] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Gnot lost connection: Disconnected
+[23Apr2021 12:28:04.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot left the game
+[23Apr2021 12:40:27.078] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 moved wrongly!
+[23Apr2021 14:24:07.873] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/92389, l='ServerLevel[apocalypse-now]', x=302.83, y=64.00, z=-26.83]
+[23Apr2021 15:12:10.817] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 35253adf-7bb4-4831-8242-96bf2029c668. Existing quark:frog#96880, new: quark:frog#96880
+[23Apr2021 15:41:54.890] [User Authenticator #16/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Gnot is a996b7a2-d9ad-487a-b316-56bed66b77f0
+[23Apr2021 15:41:57.241] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4466a2fe
+[23Apr2021 15:41:57.263] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Gnot[/0:0:0:0:0:0:0:1:1854] logged in with entity id 99599 at (335.92500001192093, 64.0, -36.59304341834421)
+[23Apr2021 15:41:57.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot joined the game
+[23Apr2021 15:42:03.599] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[23Apr2021 15:44:34.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> oh hey what's up
+[23Apr2021 15:44:41.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> not much
+[23Apr2021 15:44:53.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> we're out of iron
+[23Apr2021 15:45:02.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> got 4 cooking
+[23Apr2021 15:45:20.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> u mining?
+[23Apr2021 15:45:24.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> nope
+[23Apr2021 15:45:26.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> i was afk
+[23Apr2021 15:45:36.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> getting pumpkins/sticks
+[23Apr2021 15:48:31.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> oh shit
+[23Apr2021 15:48:36.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> ?
+[23Apr2021 15:48:37.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> you got a bamboo setup
+[23Apr2021 15:48:48.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> ye
+[23Apr2021 15:48:50.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> is this for smelting?
+[23Apr2021 15:48:57.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> can be if u want
+[23Apr2021 15:49:04.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> it's pretty low yield atm
+[23Apr2021 15:49:13.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> there's a pumpkin farm here too
+[23Apr2021 15:49:17.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> ye
+[23Apr2021 15:49:21.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> for trading
+[23Apr2021 15:49:21.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> why need more ?
+[23Apr2021 15:50:37.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> oh god
+[23Apr2021 15:50:41.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> ?
+[23Apr2021 15:50:42.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> i found Sid
+[23Apr2021 15:50:52.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> oh yeah
+[23Apr2021 15:50:58.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> it's kinda jarring
+[23Apr2021 15:50:58.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> idk how he died there
+[23Apr2021 15:51:31.464] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID b8d40b92-8ff3-4944-9aa6-006f239f0c14. Existing quark:frog#100628, new: quark:frog#100628
+[23Apr2021 15:51:46.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> u so happen to have podzol lmao
+[23Apr2021 15:51:51.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> nope
+[23Apr2021 15:51:54.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> but we can make some
+[23Apr2021 15:51:57.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> we can?
+[23Apr2021 15:52:11.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> bonemeal 4 spruce saplngs into a big spruce tree
+[23Apr2021 15:52:23.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> it makes the dirt aroudn it into podzol too
+[23Apr2021 15:52:24.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> oh yeah, i didn't wanna do that cuz it'd fuck up how things look
+[23Apr2021 15:52:33.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Areth6> guess i could just replace it after
+[23Apr2021 15:52:37.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> yeah
+[23Apr2021 15:52:41.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> got plent of grass
+[23Apr2021 15:58:45.737] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Gnot lost connection: Disconnected
+[23Apr2021 15:58:45.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot left the game
+[23Apr2021 16:03:57.525] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/102950, l='ServerLevel[apocalypse-now]', x=-314.46, y=74.77, z=-925.30] died, message: 'Farmer was slain by Zombie'
+[23Apr2021 16:07:58.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 has reached the goal [Zombie Doctor]
+[23Apr2021 16:36:46.681] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/103862, l='ServerLevel[apocalypse-now]', x=-314.67, y=75.00, z=-924.72] died, message: 'Farmer was slain by Zombie'
+[23Apr2021 16:38:52.728] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 lost connection: Disconnected
+[23Apr2021 16:38:52.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 left the game
+[23Apr2021 16:38:58.150] [User Authenticator #17/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Areth6 is 313c5dc5-847a-428b-ab66-42c8652192ef
+[23Apr2021 16:39:01.078] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3b956785
+[23Apr2021 16:39:01.098] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Areth6[/0:0:0:0:0:0:0:1:2012] logged in with entity id 106858 at (-316.30000001192093, 79.0, -925.3000000119209)
+[23Apr2021 16:39:01.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 joined the game
+[23Apr2021 16:39:09.158] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[23Apr2021 16:41:55.271] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/107388, l='ServerLevel[apocalypse-now]', x=-314.70, y=74.19, z=-925.50] died, message: 'Farmer was slain by Zombie'
+[23Apr2021 17:20:17.515] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 21db9d1b-ba81-4e4a-a6b6-8ebc70fe7589. Existing quark:frog#112955, new: quark:frog#112955
+[23Apr2021 17:22:54.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 has made the advancement [Voluntary Exile]
+[23Apr2021 17:28:57.173] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 lost connection: Disconnected
+[23Apr2021 17:28:57.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 left the game
+[23Apr2021 18:07:47.248] [User Authenticator #18/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Areth6 is 313c5dc5-847a-428b-ab66-42c8652192ef
+[23Apr2021 18:07:50.128] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4e824803
+[23Apr2021 18:07:50.150] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Areth6[/0:0:0:0:0:0:0:1:2387] logged in with entity id 113961 at (306.8752976141882, 65.0, -34.6273769483962)
+[23Apr2021 18:07:50.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 joined the game
+[23Apr2021 18:07:57.305] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[23Apr2021 18:44:21.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 has completed the challenge [Cover me in Crystal]
+[23Apr2021 19:12:24.630] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 lost connection: Disconnected
+[23Apr2021 19:12:24.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 left the game
+[23Apr2021 19:24:15.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[23Apr2021 19:24:18.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[23Apr2021 19:24:18.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Apr2021 19:24:18.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Apr2021 19:24:18.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Apr2021 19:24:18.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:overworld
+[23Apr2021 19:24:18.892] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apocalypse-now): All chunks are saved
+[23Apr2021 19:24:18.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:the_nether
+[23Apr2021 19:24:18.917] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Apr2021 19:24:18.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:the_end
+[23Apr2021 19:24:18.921] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Apr2021 19:24:18.970] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apocalypse-now): All chunks are saved
+[23Apr2021 19:24:19.230] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Apr2021 19:24:19.276] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

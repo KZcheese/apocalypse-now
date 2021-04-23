@@ -4408,9 +4408,11 @@
       "minecraft:forest": "2021-04-21 19:11:50 -0400",
       "minecraft:taiga": "2021-04-18 20:48:07 -0400",
       "minecraft:desert_hills": "2021-04-18 23:21:36 -0400",
+      "minecraft:giant_tree_taiga": "2021-04-21 22:51:19 -0400",
       "minecraft:deep_cold_ocean": "2021-04-21 19:08:17 -0400",
       "minecraft:taiga_hills": "2021-04-18 20:04:28 -0400",
       "minecraft:desert": "2021-04-18 22:52:33 -0400",
+      "minecraft:deep_frozen_ocean": "2021-04-21 22:32:57 -0400",
       "minecraft:jungle": "2021-04-18 20:03:56 -0400",
       "minecraft:jungle_hills": "2021-04-18 22:07:18 -0400",
       "minecraft:bamboo_jungle": "2021-04-18 22:06:35 -0400",
@@ -5013,8 +5015,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2021-04-21 23:12:44 -0400",
       "chicken": "2021-04-20 22:44:23 -0400",
       "sweet_berries": "2021-04-18 22:56:08 -0400",
+      "cooked_beef": "2021-04-21 23:07:46 -0400",
       "apple": "2021-04-18 21:14:02 -0400",
       "potato": "2021-04-18 22:50:47 -0400",
       "bread": "2021-04-18 23:30:16 -0400",
@@ -5022,6 +5026,7 @@
       "rotten_flesh": "2021-04-18 23:03:35 -0400",
       "salmon": "2021-04-18 20:37:16 -0400",
       "melon_slice": "2021-04-18 20:27:33 -0400",
+      "cooked_chicken": "2021-04-21 23:23:21 -0400",
       "rabbit_stew": "2021-04-18 22:33:04 -0400",
       "cooked_salmon": "2021-04-18 20:25:09 -0400",
       "carrot": "2021-04-18 20:25:04 -0400"
