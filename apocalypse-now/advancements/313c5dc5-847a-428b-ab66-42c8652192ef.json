@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "endrem:main/black_pearl": {
+    "criteria": {
+      "black_pearl": "2021-04-23 22:22:29 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:20:05 -0400"
@@ -3864,6 +3870,7 @@
       "minecraft:piglin_brute": "2021-04-21 17:19:17 -0400",
       "minecraft:creeper": "2021-04-18 23:43:11 -0400",
       "minecraft:evoker": "2021-04-20 21:40:08 -0400",
+      "minecraft:slime": "2021-04-24 19:42:13 -0400",
       "minecraft:phantom": "2021-04-18 21:06:57 -0400",
       "minecraft:witch": "2021-04-20 22:13:13 -0400",
       "minecraft:wither_skeleton": "2021-04-20 19:26:11 -0400",
@@ -3968,6 +3975,12 @@
   "biomesoplenty:recipes/redstone/dead_door": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:20:05 -0400"
+    },
+    "done": true
+  },
+  "endrem:main/lost_pearl": {
+    "criteria": {
+      "lost_pearl": "2021-04-24 19:43:41 -0400"
     },
     "done": true
   },
@@ -4631,10 +4644,18 @@
       "minecraft:jungle": "2021-04-18 19:20:05 -0400",
       "minecraft:jungle_hills": "2021-04-18 22:38:30 -0400",
       "minecraft:bamboo_jungle": "2021-04-18 22:39:07 -0400",
+      "minecraft:warm_ocean": "2021-04-23 22:17:29 -0400",
+      "minecraft:deep_lukewarm_ocean": "2021-04-23 22:16:15 -0400",
       "minecraft:savanna_plateau": "2021-04-18 22:50:05 -0400",
+      "minecraft:beach": "2021-04-23 22:15:25 -0400",
       "minecraft:dark_forest": "2021-04-20 22:31:06 -0400",
       "minecraft:river": "2021-04-18 19:31:59 -0400",
+      "minecraft:lukewarm_ocean": "2021-04-23 22:15:56 -0400",
       "minecraft:bamboo_jungle_hills": "2021-04-18 22:39:26 -0400",
+      "minecraft:wooded_mountains": "2021-04-24 19:39:25 -0400",
+      "minecraft:wooded_hills": "2021-04-23 22:13:27 -0400",
+      "minecraft:stone_shore": "2021-04-23 22:16:40 -0400",
+      "minecraft:swamp": "2021-04-23 21:43:31 -0400",
       "minecraft:savanna": "2021-04-18 22:39:41 -0400",
       "minecraft:plains": "2021-04-18 23:26:59 -0400"
     },
