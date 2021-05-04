@@ -3528,6 +3528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2021-04-26 19:16:39 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:20:05 -0400"
@@ -3863,6 +3869,7 @@
       "minecraft:blaze": "2021-04-20 19:23:30 -0400",
       "minecraft:pillager": "2021-04-20 21:53:17 -0400",
       "minecraft:skeleton": "2021-04-18 20:13:07 -0400",
+      "minecraft:ghast": "2021-04-30 15:37:42 -0400",
       "minecraft:hoglin": "2021-04-21 17:28:32 -0400",
       "minecraft:vindicator": "2021-04-20 21:53:01 -0400",
       "minecraft:magma_cube": "2021-04-20 19:52:47 -0400",
@@ -3878,7 +3885,9 @@
       "minecraft:cave_spider": "2021-04-18 22:55:27 -0400",
       "minecraft:piglin": "2021-04-21 17:20:30 -0400",
       "minecraft:enderman": "2021-04-21 16:09:05 -0400",
-      "minecraft:zombie": "2021-04-18 19:43:32 -0400"
+      "minecraft:vex": "2021-04-26 19:19:57 -0400",
+      "minecraft:zombie": "2021-04-18 19:43:32 -0400",
+      "minecraft:drowned": "2021-04-26 19:10:13 -0400"
     },
     "done": false
   },
@@ -4635,10 +4644,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2021-04-18 19:26:25 -0400",
+      "minecraft:cold_ocean": "2021-04-30 17:36:22 -0400",
       "minecraft:forest": "2021-04-20 20:44:18 -0400",
       "minecraft:mountains": "2021-04-20 21:22:58 -0400",
       "minecraft:taiga": "2021-04-18 19:51:13 -0400",
       "minecraft:desert_hills": "2021-04-18 23:21:34 -0400",
+      "minecraft:deep_cold_ocean": "2021-04-30 17:37:01 -0400",
       "minecraft:taiga_hills": "2021-04-18 19:51:56 -0400",
       "minecraft:desert": "2021-04-18 23:21:25 -0400",
       "minecraft:jungle": "2021-04-18 19:20:05 -0400",
@@ -5782,6 +5793,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:20:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2021-04-30 15:37:42 -0400"
     },
     "done": true
   },
