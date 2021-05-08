@@ -1,287 +1,145 @@
-[30Apr2021 00:13:48.251] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 lost connection: Disconnected
-[30Apr2021 00:13:48.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 left the game
-[30Apr2021 14:45:18.125] [User Authenticator #17/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Areth6 is 313c5dc5-847a-428b-ab66-42c8652192ef
-[30Apr2021 14:45:22.007] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@537ae24b
-[30Apr2021 14:45:22.035] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Areth6[/0:0:0:0:0:0:0:1:14321] logged in with entity id 72413 at (335.69999998807907, 71.0, -29.30000001192093)
-[30Apr2021 14:45:22.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 joined the game
-[30Apr2021 14:45:28.802] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[30Apr2021 14:54:29.400] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 lost connection: Disconnected
-[30Apr2021 14:54:29.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 left the game
-[30Apr2021 14:59:22.516] [User Authenticator #18/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Areth6 is 313c5dc5-847a-428b-ab66-42c8652192ef
-[30Apr2021 14:59:29.049] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3b6c16f2
-[30Apr2021 14:59:29.075] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Areth6[/0:0:0:0:0:0:0:1:14383] logged in with entity id 73672 at (305.94999998807907, 70.0, -36.22162422174196)
-[30Apr2021 14:59:29.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 joined the game
-[30Apr2021 14:59:39.062] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[30Apr2021 15:03:09.741] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID a7437292-b2b1-46c4-91fa-a073f3b4ec4a. Existing quark:frog#74707, new: quark:frog#74707
-[30Apr2021 15:12:13.391] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 590e73fd-e01e-4d08-9d4b-d43bdf75bf2a. Existing quark:frog#75945, new: quark:frog#75945
-[30Apr2021 15:26:28.098] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 moved too quickly! 8.127692769803616,2.49585340307803,5.819597870379766
-[30Apr2021 15:37:42.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 has completed the challenge [Uneasy Alliance]
-[30Apr2021 16:36:28.093] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 moved too quickly! 3.892932643175982,3.7390378163728144,8.962987676107332
-[30Apr2021 16:52:02.747] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2607, y=25, z=1987} but found not block entity block Block{minecraft:air} at location
-[30Apr2021 16:52:02.748] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=2607, y=25, z=1987}
-[30Apr2021 16:52:02.749] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2608, y=25, z=1990} but found not block entity block Block{minecraft:air} at location
-[30Apr2021 16:52:02.749] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=2608, y=25, z=1990}
-[30Apr2021 16:52:02.750] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2609, y=25, z=1987} but found not block entity block Block{minecraft:air} at location
-[30Apr2021 16:52:02.751] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=2609, y=25, z=1987}
-[30Apr2021 16:52:10.822] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2664, y=13, z=1981} but found not block entity block Block{minecraft:air} at location
-[30Apr2021 16:52:10.823] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=2664, y=13, z=1981}
-[30Apr2021 16:53:10.709] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:53:10.710] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:53:10.711] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:53:10.712] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:53:10.713] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:53:10.714] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:53:10.714] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:53:10.715] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:53:10.715] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:53:10.716] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:53:10.717] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:53:10.718] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:53:20.306] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:53:20.307] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:53:20.338] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:53:20.339] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:53:20.340] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:53:20.341] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:53:20.342] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:53:20.343] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:53:20.344] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:53:31.904] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 lost connection: Disconnected
-[30Apr2021 16:53:31.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 left the game
-[30Apr2021 16:56:53.552] [User Authenticator #19/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Areth6 is 313c5dc5-847a-428b-ab66-42c8652192ef
-[30Apr2021 16:56:56.150] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4e322b28
-[30Apr2021 16:56:56.174] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Areth6[/0:0:0:0:0:0:0:1:14826] logged in with entity id 102696 at (2729.133629618907, 81.0, 1909.5681795797059)
-[30Apr2021 16:56:56.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 joined the game
-[30Apr2021 16:56:56.987] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[30Apr2021 16:57:12.143] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:12.144] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:12.145] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:12.146] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:12.147] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:12.148] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:12.149] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:12.149] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:12.150] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:12.150] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:12.151] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:12.151] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:12.152] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:12.152] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:12.152] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:12.153] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:12.153] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:12.154] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:18.633] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:18.634] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:18.635] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:18.637] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:18.638] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:18.639] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:18.640] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:18.641] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:18.642] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:18.643] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:18.643] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:18.644] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:18.646] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:18.646] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:18.647] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:18.648] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:18.649] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:18.650] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:18.650] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:18.651] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:18.651] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:18.652] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:18.652] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:18.652] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:18.653] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:18.653] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:18.653] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:18.654] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:18.654] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:18.655] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:18.655] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:18.656] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:18.656] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.453] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.455] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.456] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.456] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.457] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.457] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.458] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.458] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.459] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.460] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.460] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.461] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.461] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.462] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.462] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.462] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.463] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.463] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.463] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.464] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.464] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.464] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.465] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.465] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.465] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.466] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.466] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.466] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.467] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.467] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.468] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.468] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.468] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.468] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.468] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.468] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.468] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.469] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.469] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.469] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.470] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.470] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.470] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.471] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.471] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.471] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.473] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.473] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.473] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.474] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.474] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.475] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.475] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.476] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.476] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.476] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.477] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.477] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.478] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.478] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.479] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.479] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.479] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.480] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.481] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.481] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.482] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.482] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.483] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.483] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.483] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.484] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.484] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.485] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.485] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.485] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.486] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.486] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:25.486] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:25.487] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:25.487] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:31.942] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:31.944] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:31.945] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:31.946] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:31.947] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:31.948] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:31.949] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:31.950] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:31.950] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:31.951] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:31.952] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:31.952] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:31.953] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:31.954] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:31.954] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:31.955] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:31.956] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:31.956] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:31.994] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:31.995] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:31.995] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:31.996] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:31.996] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:31.997] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:31.997] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:31.998] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:31.998] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:31.999] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:31.999] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:32.000] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:57:32.001] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:57:32.001] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:57:32.001] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:58:02.376] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:58:02.377] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:58:02.378] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:58:02.379] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:58:02.379] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:58:02.380] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:58:02.380] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:58:02.381] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:58:02.382] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:58:02.382] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 16:58:02.383] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 16:58:02.383] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 16:58:06.047] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3226, y=28, z=1782} but found not block entity block Block{minecraft:air} at location
-[30Apr2021 16:58:06.048] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=3226, y=28, z=1782}
-[30Apr2021 17:36:05.505] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 17:36:05.506] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 17:36:05.506] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 17:36:05.507] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 17:36:05.507] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 17:36:05.508] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 17:36:05.508] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 17:36:05.509] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 17:36:05.509] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 17:36:29.125] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Areth6) moved too quickly! 9.354709752071813,0.0,-3.994125881310538
-[30Apr2021 17:36:29.126] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Areth6) moved too quickly! 9.719013957958396,0.0,-4.149670618004393
-[30Apr2021 17:36:29.127] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Areth6) moved too quickly! 10.083674912938022,0.0,-4.305367671656995
-[30Apr2021 17:36:29.129] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Areth6) moved too quickly! 10.448656942092839,0.0,-4.461201810568582
-[30Apr2021 17:36:29.130] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Areth6) moved too quickly! 10.81392793799796,0.0,-4.617159326209958
-[30Apr2021 17:36:29.131] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Areth6) moved too quickly! 11.17945900397126,0.0,-4.773227880905324
-[30Apr2021 17:36:29.132] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Areth6) moved too quickly! 11.545224132999465,0.0,-4.929396370746645
-[30Apr2021 17:36:29.133] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Areth6) moved too quickly! 11.911199918771672,0.0,-5.08565480221705
-[30Apr2021 17:36:29.134] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Areth6) moved too quickly! 12.277365295608433,0.0,-5.241994181151313
-[30Apr2021 17:36:29.134] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Areth6) moved too quickly! 12.643701304398746,0.0,-5.3984064128012506
-[30Apr2021 17:36:29.135] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Areth6) moved too quickly! 13.010190881943345,0.0,-5.554884211893295
-[30Apr2021 17:36:29.136] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Areth6) moved too quickly! 13.376818671363253,0.0,-5.711421021681872
-[30Apr2021 17:36:29.136] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Areth6) moved too quickly! 13.743570851467211,0.0,-5.868010941095918
-[30Apr2021 17:36:29.137] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Areth6) moved too quickly! 14.110434983184405,0.0,-6.024648659171589
-[30Apr2021 17:36:29.138] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Areth6) moved too quickly! 14.477399871350372,0.0,-6.181329396041747
-[30Apr2021 17:36:29.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
-[30Apr2021 17:39:18.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2261ms or 45 ticks behind
-[30Apr2021 17:41:32.959] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 moved too quickly! -7.8862638535729275,2.7559536205990014,-5.9499192995715475
-[30Apr2021 17:42:52.704] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 17:42:52.704] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 17:42:52.705] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 17:42:52.705] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 17:42:52.705] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 17:42:52.706] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 17:42:52.707] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Apr2021 17:42:52.707] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Apr2021 17:42:52.708] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Apr2021 17:55:14.799] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 lost connection: Disconnected
-[30Apr2021 17:55:14.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 left the game
-[30Apr2021 17:56:04.603] [User Authenticator #20/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Areth6 is 313c5dc5-847a-428b-ab66-42c8652192ef
-[30Apr2021 17:56:07.500] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2877e252
-[30Apr2021 17:56:07.525] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Areth6[/0:0:0:0:0:0:0:1:14984] logged in with entity id 124762 at (308.42504153211587, 65.0, -34.92807970594609)
-[30Apr2021 17:56:07.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 joined the game
-[30Apr2021 17:56:12.701] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[30Apr2021 18:02:08.449] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 lost connection: Disconnected
-[30Apr2021 18:02:08.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 left the game
-[30Apr2021 21:27:12.139] [User Authenticator #21/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Areth6 is 313c5dc5-847a-428b-ab66-42c8652192ef
-[30Apr2021 21:27:15.252] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1be0cee8
-[30Apr2021 21:27:15.277] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Areth6[/0:0:0:0:0:0:0:1:1850] logged in with entity id 125407 at (308.4059773458195, 64.0, -32.918668570848936)
-[30Apr2021 21:27:15.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 joined the game
-[30Apr2021 21:27:21.413] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[30Apr2021 21:33:45.501] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/126213, l='ServerLevel[apocalypse-now]', x=303.15, y=64.00, z=-27.45]
-[30Apr2021 21:38:14.749] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Areth6 lost connection: Disconnected
-[30Apr2021 21:38:14.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Areth6 left the game
+[07May2021 00:04:59.023] [User Authenticator #28/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
+[07May2021 00:05:02.092] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7fc3f247
+[07May2021 00:05:02.117] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: duh_hell[/0:0:0:0:0:0:0:1:5100] logged in with entity id 124655 at (304.7491628817499, 64.0, -47.01222767343212)
+[07May2021 00:05:02.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell joined the game
+[07May2021 00:05:08.710] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[07May2021 00:13:19.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell has made the advancement [Cover Me With Diamonds]
+[07May2021 00:14:03.193] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: duh_hell lost connection: Timed out
+[07May2021 00:14:03.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell left the game
+[07May2021 00:20:32.575] [User Authenticator #29/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
+[07May2021 00:20:35.643] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3fab9df2
+[07May2021 00:20:35.662] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: duh_hell[/0:0:0:0:0:0:0:1:5139] logged in with entity id 125662 at (308.03113632268656, 71.0, -37.21059553506906)
+[07May2021 00:20:35.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell joined the game
+[07May2021 00:20:37.155] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[07May2021 00:33:28.049] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=300, y=70, z=-85} BlockPos{x=298, y=70, z=-85}
+[07May2021 00:33:28.076] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=300, y=70, z=-85} BlockPos{x=298, y=70, z=-85}
+[07May2021 00:33:28.123] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=300, y=70, z=-85} BlockPos{x=298, y=70, z=-85}
+[07May2021 00:33:28.175] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=300, y=70, z=-85} BlockPos{x=298, y=70, z=-85}
+[07May2021 00:33:28.225] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=300, y=70, z=-85} BlockPos{x=298, y=70, z=-85}
+[07May2021 00:33:28.278] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=300, y=70, z=-85} BlockPos{x=298, y=70, z=-85}
+[07May2021 00:33:28.330] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=298, y=70, z=-83} BlockPos{x=298, y=70, z=-85}
+[07May2021 00:33:28.415] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=298, y=70, z=-83} BlockPos{x=298, y=70, z=-85}
+[07May2021 00:33:28.444] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=298, y=70, z=-83} BlockPos{x=298, y=70, z=-85}
+[07May2021 00:33:28.497] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=298, y=70, z=-83} BlockPos{x=298, y=70, z=-85}
+[07May2021 00:41:00.143] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/128514, l='ServerLevel[apocalypse-now]', x=303.12, y=64.00, z=-27.27]
+[07May2021 00:51:56.082] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 2a87338b-169f-407f-b9f5-b55d012f8748. Existing quark:frog#129912, new: quark:frog#129912
+[07May2021 01:13:35.941] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID cf5f497c-1c15-4130-b0bd-203be53e40f9. Existing quark:frog#132978, new: quark:frog#132978
+[07May2021 01:17:57.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell has made the advancement [Monster Hunter]
+[07May2021 01:18:13.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell has made the advancement [What a Deal!]
+[07May2021 01:22:22.694] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: duh_hell lost connection: Disconnected
+[07May2021 01:22:22.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell left the game
+[07May2021 12:28:00.748] [User Authenticator #30/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
+[07May2021 12:28:04.243] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@755408f3
+[07May2021 12:28:04.265] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: duh_hell[/0:0:0:0:0:0:0:1:12796] logged in with entity id 135492 at (-293.9776403091821, 71.0, -922.8460939120234)
+[07May2021 12:28:04.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell joined the game
+[07May2021 12:28:10.604] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[07May2021 12:29:26.975] [User Authenticator #31/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Gnot is a996b7a2-d9ad-487a-b316-56bed66b77f0
+[07May2021 12:29:29.319] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2647efe9
+[07May2021 12:29:29.353] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Gnot[/0:0:0:0:0:0:0:1:12813] logged in with entity id 136007 at (310.1222348593971, 64.0, -46.30000001192093)
+[07May2021 12:29:29.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot joined the game
+[07May2021 12:29:35.932] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[07May2021 12:30:17.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> lol
+[07May2021 12:30:23.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> you found my new area
+[07May2021 12:30:27.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> why did you park the village center on the river?
+[07May2021 12:30:41.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> i had to build some flat land
+[07May2021 12:30:56.299] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/135562, l='ServerLevel[apocalypse-now]', x=-378.50, y=53.00, z=-943.50] died, message: 'Villager was slain by Zombie'
+[07May2021 12:32:44.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot has made the advancement [Fishy Business]
+[07May2021 12:33:19.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> my new production factory will be built soon
+[07May2021 12:33:26.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> for now i'm transporting villagers
+[07May2021 12:33:48.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> i'll see you later tonight
+[07May2021 12:33:58.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> how're you doing it? canal?
+[07May2021 12:34:09.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> boat, a lot of digging
+[07May2021 12:34:16.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> i'll have to see
+[07May2021 12:34:18.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> do you have the path charted?
+[07May2021 12:34:20.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> i'm in thickkush
+[07May2021 12:34:29.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> it's not going to be easy
+[07May2021 12:34:37.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> Alex was working on a waterway
+[07May2021 12:34:42.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> you can go off that
+[07May2021 12:35:08.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> i'll probably try to dig myself a canal first
+[07May2021 12:35:16.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> there's a decent amount of water along the way
+[07May2021 12:35:20.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> there's already a canal we charted
+[07May2021 12:36:11.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> i just need to connect 2 bodies of water, then i'm set to sail
+[07May2021 12:36:16.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> but i'll do that later tonight
+[07May2021 12:36:33.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> already done
+[07May2021 12:36:39.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> meet you at thickkush?
+[07May2021 12:36:42.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> ok
+[07May2021 12:40:04.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> here's the villager
+[07May2021 12:40:07.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> follow me
+[07May2021 12:40:15.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> don't bring him yet
+[07May2021 12:40:23.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> it's not ready
+[07May2021 12:41:04.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> ok
+[07May2021 12:42:38.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> oh
+[07May2021 12:42:42.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> i didn't see that on the map
+[07May2021 12:42:49.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> yeah, it's not visible n the map
+[07May2021 12:42:59.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> cool, i'll transport him tonight
+[07May2021 12:43:58.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> wait, where are u going?
+[07May2021 12:44:07.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> I was thinking of builidng up an area here
+[07May2021 12:44:12.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> oh
+[07May2021 12:44:42.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> i'll go back to thickush for now
+[07May2021 12:44:44.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> haven't been down there
+[07May2021 12:44:58.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> like i said, i have more time tonight
+[07May2021 12:45:04.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> k
+[07May2021 12:45:15.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> oh also
+[07May2021 12:45:24.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> fyi, ur backpack works like a bed
+[07May2021 12:45:30.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> how so?
+[07May2021 12:45:37.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> let me show you
+[07May2021 12:46:25.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> huh
+[07May2021 12:46:29.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> it's not working
+[07May2021 12:46:38.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> oh that's it
+[07May2021 12:46:44.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> how'd yu put it down
+[07May2021 12:46:49.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> shift click
+[07May2021 12:46:55.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> ok
+[07May2021 12:47:06.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> p;ut it down
+[07May2021 12:47:11.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> right click
+[07May2021 12:47:17.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> and see the bed icon on the bottom left?
+[07May2021 12:47:31.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> oh
+[07May2021 12:47:33.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> cool
+[07May2021 12:47:47.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> you can pick it up by shift clicking it
+[07May2021 12:47:51.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> that's pretty cool
+[07May2021 12:48:09.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> let's test it
+[07May2021 12:48:10.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> that's a lot of lava
+[07May2021 12:48:38.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> what's that headgear?
+[07May2021 12:49:16.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> lol
+[07May2021 12:49:23.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> i just grabbed the extra head gear from jeff
+[07May2021 12:49:43.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> that's good
+[07May2021 12:49:43.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> eh!
+[07May2021 12:49:49.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> k
+[07May2021 12:49:50.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> i don't need to carry a spare bed anymore
+[07May2021 12:49:52.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> that's all
+[07May2021 12:49:55.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> yup
+[07May2021 12:49:56.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> cool
+[07May2021 12:50:02.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> also
+[07May2021 12:50:07.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> you can craft in your backpack
+[07May2021 12:50:15.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> that's also good to know
+[07May2021 12:50:24.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> the orange grid is a crafting table
+[07May2021 12:50:28.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> i see
+[07May2021 12:51:30.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> alright, see you tonight
+[07May2021 12:51:32.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Gnot> cya
+[07May2021 12:51:34.103] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: duh_hell lost connection: Disconnected
+[07May2021 12:51:34.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell left the game
+[07May2021 12:53:00.296] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Gnot lost connection: Disconnected
+[07May2021 12:53:00.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot left the game
+[07May2021 20:30:12.860] [User Authenticator #32/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Gnot is a996b7a2-d9ad-487a-b316-56bed66b77f0
+[07May2021 20:30:15.393] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3313ceaf
+[07May2021 20:30:15.414] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Gnot[/0:0:0:0:0:0:0:1:14845] logged in with entity id 142941 at (-185.32622367933106, 64.0, -860.3047050653806)
+[07May2021 20:30:15.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot joined the game
+[07May2021 20:30:21.657] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[07May2021 20:31:45.747] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Gnot lost connection: Timed out
+[07May2021 20:31:45.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot left the game
+[07May2021 20:40:12.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[07May2021 20:40:12.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4.tcp.ngrok.io:118554.tcp.ngrok.io:11855minecraft/DedicatedServerlist<--[HERE]
+[07May2021 20:40:14.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[07May2021 20:40:46.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[07May2021 20:40:46.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: minecraft/DedicatedServerl;skfja;lkfj<--[HERE]
+[07May2021 20:40:50.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07May2021 20:40:50.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07May2021 20:40:50.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07May2021 20:40:50.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:overworld
+[07May2021 20:40:51.242] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apocalypse-now): All chunks are saved
+[07May2021 20:40:51.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:the_nether
+[07May2021 20:40:51.277] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07May2021 20:40:51.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:the_end
+[07May2021 20:40:51.283] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07May2021 20:40:51.341] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apocalypse-now): All chunks are saved
+[07May2021 20:40:52.578] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07May2021 20:40:52.603] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

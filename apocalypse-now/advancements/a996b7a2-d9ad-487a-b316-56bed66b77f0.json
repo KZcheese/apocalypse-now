@@ -1397,6 +1397,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2021-05-07 12:32:44 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/umbran_slab": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:39:35 -0400"

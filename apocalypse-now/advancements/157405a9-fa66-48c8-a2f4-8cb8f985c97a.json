@@ -3679,6 +3679,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2021-05-05 23:39:01 -0400",
       "minecraft:skeleton": "2021-04-18 22:41:35 -0400",
       "minecraft:spider": "2021-04-18 23:33:36 -0400",
       "minecraft:creeper": "2021-04-20 22:48:36 -0400",
@@ -3780,6 +3781,12 @@
   "biomesoplenty:recipes/redstone/dead_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2021-04-18 20:03:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2021-05-05 23:39:38 -0400"
     },
     "done": true
   },
@@ -5969,6 +5976,12 @@
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_the_recipe": "2021-04-18 20:03:56 -0400"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_pearl": {
+    "criteria": {
+      "rogue_pearl": "2021-05-05 23:34:45 -0400"
     },
     "done": true
   },
