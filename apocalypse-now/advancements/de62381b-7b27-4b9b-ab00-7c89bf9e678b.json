@@ -4457,6 +4457,7 @@
     "criteria": {
       "minecraft:jungle_edge": "2021-04-23 21:37:35 -0400",
       "minecraft:mountains": "2021-05-04 00:50:48 -0400",
+      "minecraft:forest": "2021-05-07 21:54:27 -0400",
       "minecraft:taiga": "2021-05-03 23:30:28 -0400",
       "minecraft:desert_hills": "2021-05-05 00:09:06 -0400",
       "minecraft:taiga_hills": "2021-05-03 23:30:36 -0400",
@@ -4554,6 +4555,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2021-05-07 23:13:00 -0400"
     },
     "done": true
   },
@@ -5085,6 +5092,8 @@
       "cooked_beef": "2021-05-06 00:10:26 -0400",
       "apple": "2021-05-04 00:05:42 -0400",
       "bread": "2021-05-03 23:45:08 -0400",
+      "suspicious_stew": "2021-05-07 23:17:58 -0400",
+      "salmon": "2021-05-08 00:07:02 -0400",
       "melon_slice": "2021-05-07 12:32:49 -0400",
       "rabbit_stew": "2021-05-04 00:41:56 -0400"
     },

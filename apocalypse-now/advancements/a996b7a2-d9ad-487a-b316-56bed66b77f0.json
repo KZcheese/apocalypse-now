@@ -2725,6 +2725,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2021-05-07 22:33:33 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:39:36 -0400"
@@ -3755,6 +3761,7 @@
     "criteria": {
       "minecraft:pillager": "2021-04-18 23:53:01 -0400",
       "minecraft:skeleton": "2021-04-19 00:05:29 -0400",
+      "minecraft:spider": "2021-05-07 22:34:16 -0400",
       "minecraft:creeper": "2021-04-20 20:28:24 -0400",
       "minecraft:phantom": "2021-04-18 20:44:06 -0400",
       "minecraft:husk": "2021-04-20 20:23:29 -0400",
@@ -3802,6 +3809,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:39:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2021-05-07 23:34:57 -0400"
     },
     "done": true
   },
@@ -4919,6 +4932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2021-05-07 23:50:36 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:39:35 -0400"
@@ -5119,10 +5138,12 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2021-05-07 23:57:51 -0400",
       "cooked_beef": "2021-04-20 20:38:21 -0400",
       "baked_potato": "2021-04-20 20:43:39 -0400",
       "apple": "2021-04-18 20:44:48 -0400",
       "potato": "2021-04-20 20:28:38 -0400",
+      "cooked_cod": "2021-05-07 22:28:21 -0400",
       "cookie": "2021-04-18 20:22:51 -0400",
       "rotten_flesh": "2021-04-20 20:23:39 -0400",
       "salmon": "2021-04-18 20:08:38 -0400",
