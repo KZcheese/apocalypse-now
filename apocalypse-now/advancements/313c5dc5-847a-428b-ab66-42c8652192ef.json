@@ -659,6 +659,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2021-05-09 18:23:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:20:05 -0400"
@@ -1388,6 +1394,12 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:20:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2021-05-09 18:27:33 -0400"
     },
     "done": true
   },
@@ -3909,6 +3921,7 @@
       "minecraft:witch": "2021-04-20 22:13:13 -0400",
       "minecraft:wither_skeleton": "2021-04-20 19:26:11 -0400",
       "minecraft:husk": "2021-04-18 22:40:56 -0400",
+      "minecraft:ender_dragon": "2021-05-09 18:23:05 -0400",
       "minecraft:cave_spider": "2021-04-18 22:55:27 -0400",
       "minecraft:piglin": "2021-04-21 17:20:30 -0400",
       "minecraft:enderman": "2021-04-21 16:09:05 -0400",
@@ -4185,6 +4198,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:20:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-05-09 18:13:55 -0400"
     },
     "done": true
   },
@@ -5350,6 +5369,7 @@
       "cooked_cod": "2021-04-18 21:38:45 -0400",
       "pufferfish": "2021-04-18 21:14:34 -0400",
       "bread": "2021-04-18 20:51:50 -0400",
+      "golden_apple": "2021-05-09 14:54:17 -0400",
       "cookie": "2021-04-18 20:48:34 -0400",
       "rotten_flesh": "2021-04-18 21:01:50 -0400",
       "salmon": "2021-04-18 20:09:51 -0400",
@@ -6595,6 +6615,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:20:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-05-09 18:13:55 -0400"
     },
     "done": true
   },

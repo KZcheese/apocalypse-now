@@ -827,6 +827,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2021-05-08 23:25:33 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/umbran_button": {
     "criteria": {
       "has_the_recipe": "2021-04-18 20:03:56 -0400"
@@ -3227,6 +3233,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2021-05-08 22:59:20 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-04-18 20:03:56 -0400"
@@ -3737,6 +3749,7 @@
       "minecraft:skeleton": "2021-04-18 22:41:35 -0400",
       "minecraft:spider": "2021-04-18 23:33:36 -0400",
       "minecraft:creeper": "2021-04-20 22:48:36 -0400",
+      "minecraft:phantom": "2021-05-08 23:50:13 -0400",
       "minecraft:witch": "2021-04-20 22:24:54 -0400",
       "minecraft:zombie": "2021-04-18 20:24:35 -0400"
     },
@@ -5542,6 +5555,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2021-05-08 22:07:00 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_the_recipe": "2021-04-18 20:03:56 -0400"
@@ -6393,6 +6412,12 @@
       "has_the_recipe": "2021-04-18 20:03:56 -0400"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/jellie.png": "2021-05-08 23:25:33 -0400"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {

@@ -545,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2021-05-09 11:04:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
@@ -2005,6 +2011,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2021-05-08 22:35:37 -0400",
       "minecraft:sheep": "2021-05-05 23:52:50 -0400",
       "minecraft:cow": "2021-05-05 23:25:15 -0400",
       "minecraft:chicken": "2021-05-03 23:39:11 -0400"
@@ -2818,6 +2825,12 @@
   "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-05-09 10:26:21 -0400"
     },
     "done": true
   },
@@ -3723,6 +3736,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2021-05-09 11:17:45 -0400",
       "minecraft:creeper": "2021-05-07 01:17:57 -0400"
     },
     "done": false
@@ -3820,6 +3834,12 @@
   "biomesoplenty:recipes/redstone/dead_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2021-05-09 11:17:45 -0400"
     },
     "done": true
   },
@@ -5088,14 +5108,17 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2021-05-08 22:11:32 -0400",
       "sweet_berries": "2021-05-04 00:30:50 -0400",
       "cooked_beef": "2021-05-06 00:10:26 -0400",
       "apple": "2021-05-04 00:05:42 -0400",
+      "mutton": "2021-05-08 22:10:19 -0400",
       "bread": "2021-05-03 23:45:08 -0400",
       "suspicious_stew": "2021-05-07 23:17:58 -0400",
       "salmon": "2021-05-08 00:07:02 -0400",
       "melon_slice": "2021-05-07 12:32:49 -0400",
-      "rabbit_stew": "2021-05-04 00:41:56 -0400"
+      "rabbit_stew": "2021-05-04 00:41:56 -0400",
+      "carrot": "2021-05-08 22:26:51 -0400"
     },
     "done": false
   },
@@ -6370,6 +6393,12 @@
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/red.png": "2021-05-08 22:48:57 -0400"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {

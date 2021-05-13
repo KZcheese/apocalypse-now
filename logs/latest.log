@@ -1,10 +1,157 @@
-[08May2021 00:02:32.841] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Gnot lost connection: Disconnected
-[08May2021 00:02:32.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot left the game
-[08May2021 00:03:48.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Quik_Maffs> [name:"End Castle", x:556, y:63, z:243]
-[08May2021 00:04:29.789] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Quik_Maffs lost connection: Disconnected
-[08May2021 00:04:29.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Quik_Maffs left the game
-[08May2021 00:43:45.186] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: duh_hell lost connection: Disconnected
-[08May2021 00:43:45.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell left the game
-[08May2021 00:45:48.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
-[08May2021 00:45:48.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4.tcp.ngrok.io:18696list<--[HERE]
-[08May2021 00:45:50.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[11May2021 07:49:33.036] [User Authenticator #27/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Keluvax is c71b0dd1-0620-40b3-b18c-fbec45d2d51e
+[11May2021 07:49:35.554] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@67f6f24b
+[11May2021 07:49:35.579] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Keluvax[/0:0:0:0:0:0:0:1:13532] logged in with entity id 165174 at (306.5043157189737, 64.0, -43.78683291292519)
+[11May2021 07:49:35.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax joined the game
+[11May2021 07:49:41.767] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[11May2021 07:57:49.806] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/166319, l='ServerLevel[apocalypse-now]', x=306.95, y=70.00, z=-32.31]
+[11May2021 08:00:01.911] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/166580, l='ServerLevel[apocalypse-now]', x=302.72, y=64.00, z=-27.80]
+[11May2021 08:01:15.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax has made the advancement [What a Deal!]
+[11May2021 08:09:34.746] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID fd16615d-82f0-43b9-acf8-c9b47328b15f. Existing quark:frog#167796, new: quark:frog#167796
+[11May2021 08:12:34.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax has made the advancement [Enchanter]
+[11May2021 08:22:16.557] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/169466, l='ServerLevel[apocalypse-now]', x=301.83, y=64.00, z=-26.83]
+[11May2021 09:21:52.109] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/178908, l='ServerLevel[apocalypse-now]', x=302.71, y=64.00, z=-26.83]
+[11May2021 09:22:00.108] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/178926, l='ServerLevel[apocalypse-now]', x=301.83, y=64.00, z=-27.31]
+[11May2021 09:23:06.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[11May2021 09:25:15.411] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/179407, l='ServerLevel[apocalypse-now]', x=303.83, y=64.00, z=-28.26]
+[11May2021 09:33:34.512] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/180439, l='ServerLevel[apocalypse-now]', x=304.74, y=64.00, z=-27.24]
+[11May2021 09:34:29.457] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/180569, l='ServerLevel[apocalypse-now]', x=301.89, y=64.00, z=-28.23]
+[11May2021 09:36:03.460] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/180788, l='ServerLevel[apocalypse-now]', x=302.17, y=64.00, z=-27.82]
+[11May2021 09:44:27.165] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/181810, l='ServerLevel[apocalypse-now]', x=303.72, y=64.00, z=-27.22]
+[11May2021 09:47:16.196] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID ae689eb6-a1d2-4273-a7b6-ec6eb7c35731. Existing quark:frog#182117, new: quark:frog#182117
+[11May2021 10:14:52.895] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 30747da5-1656-4b5c-a0cd-eb81b8dbd249. Existing quark:frog#188119, new: quark:frog#188119
+[11May2021 10:55:40.558] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/198635, l='ServerLevel[apocalypse-now]', x=304.82, y=64.00, z=-28.09]
+[11May2021 11:09:19.912] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Keluvax lost connection: Disconnected
+[11May2021 11:09:19.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax left the game
+[11May2021 11:30:22.123] [User Authenticator #28/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Keluvax is c71b0dd1-0620-40b3-b18c-fbec45d2d51e
+[11May2021 11:30:25.161] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1c5cb5f6
+[11May2021 11:30:25.182] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Keluvax[/0:0:0:0:0:0:0:1:10473] logged in with entity id 200487 at (307.41736460036253, 64.0, -42.2539346736552)
+[11May2021 11:30:25.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax joined the game
+[11May2021 11:30:31.276] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[11May2021 11:35:06.610] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=316, y=90, z=44} BlockPos{x=315, y=89, z=44}
+[11May2021 11:42:29.240] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=303, y=92, z=47} BlockPos{x=302, y=91, z=46}
+[11May2021 11:48:00.358] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/203236, l='ServerLevel[apocalypse-now]', x=305.74, y=64.00, z=-29.77]
+[11May2021 11:50:46.110] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/203611, l='ServerLevel[apocalypse-now]', x=303.67, y=64.00, z=-28.19]
+[11May2021 11:51:53.859] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/203747, l='ServerLevel[apocalypse-now]', x=302.28, y=64.00, z=-30.17]
+[11May2021 11:58:50.313] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/204603, l='ServerLevel[apocalypse-now]', x=302.22, y=64.00, z=-29.68]
+[11May2021 11:59:43.562] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Keluvax lost connection: Timed out
+[11May2021 11:59:43.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax left the game
+[11May2021 11:59:54.495] [User Authenticator #29/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Keluvax is c71b0dd1-0620-40b3-b18c-fbec45d2d51e
+[11May2021 12:00:00.055] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@41c10f32
+[11May2021 12:00:00.074] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Keluvax[/0:0:0:0:0:0:0:1:11936] logged in with entity id 204738 at (318.1845514168473, 90.0, 31.830852187599355)
+[11May2021 12:00:00.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax joined the game
+[11May2021 12:00:01.113] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[11May2021 12:00:15.210] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Keluvax lost connection: Timed out
+[11May2021 12:00:15.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax left the game
+[11May2021 12:01:21.002] [User Authenticator #30/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Keluvax is c71b0dd1-0620-40b3-b18c-fbec45d2d51e
+[11May2021 12:01:25.501] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4f16c312
+[11May2021 12:01:25.522] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Keluvax[/0:0:0:0:0:0:0:1:11989] logged in with entity id 204775 at (318.1845514168473, 90.0, 31.830852187599355)
+[11May2021 12:01:25.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax joined the game
+[11May2021 12:01:27.072] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[11May2021 12:01:40.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Keluvax> w
+[11May2021 12:06:07.271] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/205383, l='ServerLevel[apocalypse-now]', x=305.75, y=64.00, z=-28.12]
+[11May2021 12:07:26.016] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/205608, l='ServerLevel[apocalypse-now]', x=304.54, y=64.00, z=-27.22]
+[11May2021 12:07:31.763] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/205628, l='ServerLevel[apocalypse-now]', x=304.25, y=64.00, z=-28.67]
+[11May2021 12:07:55.415] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/205782, l='ServerLevel[apocalypse-now]', x=305.75, y=64.00, z=-26.83]
+[11May2021 12:19:49.908] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/207473, l='ServerLevel[apocalypse-now]', x=303.11, y=64.00, z=-27.29]
+[11May2021 12:22:10.309] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/207763, l='ServerLevel[apocalypse-now]', x=319.69, y=89.00, z=38.69]
+[11May2021 12:50:16.358] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Keluvax lost connection: Disconnected
+[11May2021 12:50:16.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax left the game
+[11May2021 15:08:54.193] [User Authenticator #31/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Keluvax is c71b0dd1-0620-40b3-b18c-fbec45d2d51e
+[11May2021 15:08:56.505] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@373edb33
+[11May2021 15:08:56.530] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Keluvax[/0:0:0:0:0:0:0:1:4874] logged in with entity id 211318 at (310.11692000847944, 64.0, -36.011791547051594)
+[11May2021 15:08:56.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax joined the game
+[11May2021 15:09:01.862] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[11May2021 15:09:13.009] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/211355, l='ServerLevel[apocalypse-now]', x=302.84, y=64.00, z=-27.62]
+[11May2021 15:09:24.806] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/211379, l='ServerLevel[apocalypse-now]', x=303.67, y=82.00, z=28.70]
+[11May2021 15:21:02.708] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Keluvax lost connection: Disconnected
+[11May2021 15:21:02.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax left the game
+[11May2021 17:18:33.300] [User Authenticator #32/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Keluvax is c71b0dd1-0620-40b3-b18c-fbec45d2d51e
+[11May2021 17:18:36.656] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2c8ba379
+[11May2021 17:18:36.679] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Keluvax[/0:0:0:0:0:0:0:1:13752] logged in with entity id 213419 at (-215.07676510690362, 75.91680740848744, -267.3626676433673)
+[11May2021 17:18:36.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax joined the game
+[11May2021 17:18:41.515] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[11May2021 17:34:12.959] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-336, y=77, z=-381} BlockPos{x=-337, y=78, z=-381}
+[11May2021 17:42:43.065] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Keluvax lost connection: Disconnected
+[11May2021 17:42:43.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax left the game
+[11May2021 19:09:23.407] [User Authenticator #33/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Keluvax is c71b0dd1-0620-40b3-b18c-fbec45d2d51e
+[11May2021 19:09:25.904] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7d3da617
+[11May2021 19:09:25.926] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Keluvax[/0:0:0:0:0:0:0:1:3054] logged in with entity id 217151 at (-340.57872272394843, 71.5, -386.46091938590797)
+[11May2021 19:09:25.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax joined the game
+[11May2021 19:09:31.566] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[11May2021 19:19:57.058] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Keluvax lost connection: Timed out
+[11May2021 19:19:57.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax left the game
+[11May2021 19:20:07.758] [User Authenticator #34/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Keluvax is c71b0dd1-0620-40b3-b18c-fbec45d2d51e
+[11May2021 19:20:14.702] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2b3a9505
+[11May2021 19:20:14.723] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Keluvax[/0:0:0:0:0:0:0:1:3359] logged in with entity id 219482 at (190.20282178585552, 65.5, -269.2393561423264)
+[11May2021 19:20:14.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax joined the game
+[11May2021 19:20:15.682] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[11May2021 19:20:44.807] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Keluvax lost connection: Timed out
+[11May2021 19:20:44.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax left the game
+[11May2021 19:20:59.830] [User Authenticator #35/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Keluvax is c71b0dd1-0620-40b3-b18c-fbec45d2d51e
+[11May2021 19:21:03.057] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@dcf2663
+[11May2021 19:21:03.075] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Keluvax[/0:0:0:0:0:0:0:1:3388] logged in with entity id 219577 at (211.5, 69.5625, -268.5)
+[11May2021 19:21:03.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax joined the game
+[11May2021 19:21:04.279] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[11May2021 19:21:33.159] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Keluvax lost connection: Timed out
+[11May2021 19:21:33.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax left the game
+[11May2021 19:22:33.622] [User Authenticator #36/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Keluvax is c71b0dd1-0620-40b3-b18c-fbec45d2d51e
+[11May2021 19:22:37.451] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@681cdce9
+[11May2021 19:22:37.472] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Keluvax[/0:0:0:0:0:0:0:1:3436] logged in with entity id 219705 at (288.0686715056287, 63.03584062504456, -270.30000001192093)
+[11May2021 19:22:37.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax joined the game
+[11May2021 19:22:39.943] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[11May2021 19:26:14.893] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 627f0ae9-ec97-4f42-83f4-00c6e812ef52. Existing quark:frog#220349, new: quark:frog#220349
+[11May2021 19:26:52.957] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Keluvax lost connection: Timed out
+[11May2021 19:26:52.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax left the game
+[11May2021 19:27:02.455] [User Authenticator #37/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Keluvax is c71b0dd1-0620-40b3-b18c-fbec45d2d51e
+[11May2021 19:27:04.763] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@9ce346
+[11May2021 19:27:04.784] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Keluvax[/0:0:0:0:0:0:0:1:3565] logged in with entity id 220441 at (307.2994031808064, 64.0, -43.97230618109298)
+[11May2021 19:27:04.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax joined the game
+[11May2021 19:27:07.512] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[11May2021 20:05:15.637] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-341, y=65, z=-881} BlockPos{x=-340, y=63, z=-882}
+[11May2021 20:18:54.695] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 3c2edbca-fb15-48a1-b828-eb5169e85b48. Existing quark:frog#228082, new: quark:frog#228082
+[11May2021 20:43:32.394] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 38a97b11-ae0f-485c-ab94-9a8041f39338. Existing quark:frog#232129, new: quark:frog#232129
+[11May2021 20:47:24.168] [User Authenticator #38/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
+[11May2021 20:47:26.929] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@66e302f5
+[11May2021 20:47:26.954] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: duh_hell[/0:0:0:0:0:0:0:1:5656] logged in with entity id 233236 at (297.0093869661589, 64.0, -61.54282081961164)
+[11May2021 20:47:26.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell joined the game
+[11May2021 20:47:33.063] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[11May2021 20:47:33.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Keluvax> yooooooooooo
+[11May2021 20:47:39.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> hello
+[11May2021 20:47:45.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> just checking the bridge
+[11May2021 20:47:53.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Keluvax> i have road to thickush now
+[11May2021 20:48:04.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> nice
+[11May2021 20:49:13.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> the bride looks good
+[11May2021 20:49:23.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Keluvax> excellentes
+[11May2021 20:49:45.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> i like the dirt bricks
+[11May2021 20:49:49.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> how durable are they?
+[11May2021 20:49:49.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Keluvax> they're nice
+[11May2021 20:49:53.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Keluvax> they're like dirt
+[11May2021 20:49:58.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> ok
+[11May2021 20:49:59.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Keluvax> but in brick shape
+[11May2021 20:50:05.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> interesting
+[11May2021 20:50:22.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Keluvax> i brought a couple horses lol
+[11May2021 20:50:28.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> i might consider building a poor man's chinese internment camp
+[11May2021 20:50:34.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Keluvax> O:
+[11May2021 20:50:41.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> nice
+[11May2021 20:50:46.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> good horses
+[11May2021 20:51:04.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Keluvax> yees, le gold one iz minne d;
+[11May2021 20:51:12.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> i need a saddle
+[11May2021 20:51:37.522] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Keluvax) moved wrongly! 0.3158320357952178
+[11May2021 20:51:37.563] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Keluvax) moved wrongly! 0.7076327980101595
+[11May2021 20:51:37.621] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Keluvax) moved wrongly! 1.1151222531400364
+[11May2021 20:51:37.664] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Keluvax) moved wrongly! 1.353033204313661
+[11May2021 20:51:37.722] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Keluvax) moved wrongly! 1.585270106537024
+[11May2021 20:51:37.760] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Keluvax) moved wrongly! 1.814765906618689
+[11May2021 20:51:37.824] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Keluvax) moved wrongly! 2.041813686043291
+[11May2021 20:51:37.864] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Keluvax) moved wrongly! 2.4681290917034318
+[11May2021 20:51:45.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> thanks for leveling up villagers
+[11May2021 20:51:51.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Keluvax> oh yes ofc
+[11May2021 20:53:30.644] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 375729cc-db79-4808-be40-86753288c33d. Existing quark:frog#234368, new: quark:frog#234368
+[11May2021 20:55:10.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> i'll see ya later
+[11May2021 20:55:13.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Keluvax> laterz
+[11May2021 20:55:18.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <duh_hell> i was just here to check the bridge
+[11May2021 20:55:20.964] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: duh_hell lost connection: Disconnected
+[11May2021 20:55:20.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell left the game
+[11May2021 20:55:23.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Keluvax> xD
+[11May2021 20:55:26.908] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Keluvax lost connection: Disconnected
+[11May2021 20:55:26.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Keluvax left the game
