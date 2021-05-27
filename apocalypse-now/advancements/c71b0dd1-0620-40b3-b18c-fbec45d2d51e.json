@@ -557,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/very_very_frightening": {
+    "criteria": {
+      "struck_villager": "2021-05-23 21:29:57 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:15:20 -0400"
@@ -1649,6 +1655,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-05-23 21:02:00 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:15:19 -0400"
@@ -2026,7 +2038,8 @@
       "minecraft:pig": "2021-05-08 21:13:07 -0400",
       "minecraft:sheep": "2021-05-08 21:20:18 -0400",
       "minecraft:cow": "2021-05-08 21:14:14 -0400",
-      "minecraft:chicken": "2021-04-19 20:57:38 -0400"
+      "minecraft:chicken": "2021-04-19 20:57:38 -0400",
+      "minecraft:rabbit": "2021-05-14 14:37:13 -0400"
     },
     "done": false
   },
@@ -2255,6 +2268,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:15:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-05-23 21:02:00 -0400"
     },
     "done": true
   },
@@ -2930,6 +2949,12 @@
     },
     "done": true
   },
+  "endrem:main/root": {
+    "criteria": {
+      "corrupted_pearl": "2021-05-14 13:58:50 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:15:20 -0400"
@@ -2969,6 +2994,12 @@
   "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:15:20 -0400"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_pearl": {
+    "criteria": {
+      "corrupted_pearl": "2021-05-14 13:58:50 -0400"
     },
     "done": true
   },
@@ -3756,6 +3787,8 @@
     "criteria": {
       "minecraft:pillager": "2021-04-18 23:53:06 -0400",
       "minecraft:skeleton": "2021-04-18 20:18:33 -0400",
+      "minecraft:vindicator": "2021-05-14 14:16:03 -0400",
+      "minecraft:magma_cube": "2021-05-23 21:02:35 -0400",
       "minecraft:spider": "2021-05-11 17:26:37 -0400",
       "minecraft:creeper": "2021-04-18 20:13:40 -0400",
       "minecraft:phantom": "2021-04-18 21:06:11 -0400",
@@ -3864,6 +3897,12 @@
   "biomesoplenty:recipes/redstone/dead_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:15:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2021-05-14 14:08:38 -0400"
     },
     "done": true
   },
@@ -4923,6 +4962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2021-05-14 20:37:53 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:15:19 -0400"
@@ -5129,6 +5174,7 @@
       "potato": "2021-04-18 21:46:37 -0400",
       "bread": "2021-04-18 21:09:43 -0400",
       "cookie": "2021-04-18 20:59:16 -0400",
+      "suspicious_stew": "2021-05-21 13:59:31 -0400",
       "melon_slice": "2021-05-09 20:43:32 -0400",
       "cooked_chicken": "2021-05-08 21:43:07 -0400",
       "rabbit_stew": "2021-04-18 22:07:49 -0400",

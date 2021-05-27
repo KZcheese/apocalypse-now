@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2021-05-20 22:35:31 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/willow_fence_gate": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:39:36 -0400"
@@ -2024,6 +2030,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2021-04-18 22:24:50 -0400",
+      "minecraft:sheep": "2021-05-20 21:51:17 -0400",
       "minecraft:cow": "2021-04-20 20:07:42 -0400",
       "minecraft:chicken": "2021-04-18 20:04:57 -0400"
     },
@@ -3247,6 +3254,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2021-05-20 22:22:51 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:39:36 -0400"
@@ -3764,6 +3777,7 @@
       "minecraft:spider": "2021-05-07 22:34:16 -0400",
       "minecraft:creeper": "2021-04-20 20:28:24 -0400",
       "minecraft:phantom": "2021-04-18 20:44:06 -0400",
+      "minecraft:witch": "2021-05-17 16:18:14 -0400",
       "minecraft:husk": "2021-04-20 20:23:29 -0400",
       "minecraft:zombie": "2021-04-18 20:00:32 -0400",
       "minecraft:drowned": "2021-04-18 20:00:26 -0400"
@@ -3863,6 +3877,12 @@
   "biomesoplenty:recipes/redstone/dead_door": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:39:35 -0400"
+    },
+    "done": true
+  },
+  "endrem:main/lost_pearl": {
+    "criteria": {
+      "lost_pearl": "2021-05-20 15:36:40 -0400"
     },
     "done": true
   },
@@ -4513,7 +4533,9 @@
       "minecraft:jungle_edge": "2021-04-18 19:40:36 -0400",
       "minecraft:forest": "2021-04-20 20:55:36 -0400",
       "minecraft:taiga": "2021-04-18 19:45:31 -0400",
+      "minecraft:desert_hills": "2021-05-17 16:14:41 -0400",
       "minecraft:taiga_hills": "2021-04-18 19:44:39 -0400",
+      "minecraft:desert": "2021-05-17 16:13:54 -0400",
       "minecraft:jungle": "2021-04-18 19:39:36 -0400",
       "minecraft:jungle_hills": "2021-04-18 20:27:26 -0400",
       "minecraft:bamboo_jungle": "2021-04-19 00:05:38 -0400",
@@ -5144,6 +5166,7 @@
       "apple": "2021-04-18 20:44:48 -0400",
       "potato": "2021-04-20 20:28:38 -0400",
       "cooked_cod": "2021-05-07 22:28:21 -0400",
+      "bread": "2021-05-17 16:07:18 -0400",
       "cookie": "2021-04-18 20:22:51 -0400",
       "rotten_flesh": "2021-04-20 20:23:39 -0400",
       "salmon": "2021-04-18 20:08:38 -0400",

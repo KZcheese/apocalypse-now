@@ -3503,6 +3503,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2021-05-23 22:06:30 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:44:29 -0400"
@@ -4343,6 +4349,7 @@
       "minecraft:mountains": "2021-04-18 21:28:55 -0400",
       "minecraft:taiga": "2021-04-18 20:25:44 -0400",
       "minecraft:taiga_hills": "2021-04-18 20:11:44 -0400",
+      "minecraft:desert": "2021-05-23 21:50:29 -0400",
       "minecraft:jungle": "2021-04-18 19:54:36 -0400",
       "minecraft:jungle_hills": "2021-04-18 20:46:18 -0400",
       "minecraft:river": "2021-04-18 20:11:41 -0400"

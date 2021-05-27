@@ -2768,6 +2768,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2021-05-20 21:29:24 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
@@ -2918,6 +2924,12 @@
     },
     "done": true
   },
+  "endrem:main/root": {
+    "criteria": {
+      "corrupted_pearl": "2021-05-19 20:37:59 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
@@ -2957,6 +2969,12 @@
   "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_pearl": {
+    "criteria": {
+      "corrupted_pearl": "2021-05-19 20:37:59 -0400"
     },
     "done": true
   },
@@ -3737,7 +3755,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2021-05-09 11:17:45 -0400",
-      "minecraft:creeper": "2021-05-07 01:17:57 -0400"
+      "minecraft:skeleton": "2021-05-17 00:04:28 -0400",
+      "minecraft:creeper": "2021-05-07 01:17:57 -0400",
+      "minecraft:zombie": "2021-05-19 20:19:07 -0400",
+      "minecraft:drowned": "2021-05-20 01:01:13 -0400",
+      "minecraft:zombie_villager": "2021-05-19 20:20:10 -0400"
     },
     "done": false
   },
@@ -3780,6 +3802,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2021-05-21 01:22:33 -0400"
     },
     "done": true
   },
@@ -5115,6 +5143,7 @@
       "mutton": "2021-05-08 22:10:19 -0400",
       "bread": "2021-05-03 23:45:08 -0400",
       "suspicious_stew": "2021-05-07 23:17:58 -0400",
+      "rotten_flesh": "2021-05-22 00:56:40 -0400",
       "salmon": "2021-05-08 00:07:02 -0400",
       "melon_slice": "2021-05-07 12:32:49 -0400",
       "rabbit_stew": "2021-05-04 00:41:56 -0400",
