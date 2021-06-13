@@ -1,16 +1,64 @@
-[27May2021 18:32:43.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
-[27May2021 18:32:43.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4.tcp.ngrok.io:149334.tcp.ngrok.io:149334.tcp.ngrok.io:14933< list<--[HERE]
-[27May2021 18:32:45.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
-[27May2021 18:49:10.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[27May2021 18:49:10.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[27May2021 18:49:10.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[27May2021 18:49:10.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[27May2021 18:49:10.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:overworld
-[27May2021 18:49:11.642] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apocalypse-now): All chunks are saved
-[27May2021 18:49:11.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:the_nether
-[27May2021 18:49:11.668] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[27May2021 18:49:11.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:the_end
-[27May2021 18:49:11.844] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[27May2021 18:49:11.908] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apocalypse-now): All chunks are saved
-[27May2021 18:49:14.166] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[27May2021 18:49:14.202] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Jun2021 18:24:51.713] [User Authenticator #9/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
+[06Jun2021 18:24:54.436] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@8fc9b9a
+[06Jun2021 18:24:54.467] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: duh_hell[/0:0:0:0:0:0:0:1:9553] logged in with entity id 36159 at (276.16079955402694, 69.0, -83.40865456943695)
+[06Jun2021 18:24:54.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell joined the game
+[06Jun2021 18:25:02.216] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[06Jun2021 18:32:11.642] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: duh_hell lost connection: Disconnected
+[06Jun2021 18:32:11.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell left the game
+[06Jun2021 20:12:24.280] [User Authenticator #10/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
+[06Jun2021 20:12:27.388] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3313e77b
+[06Jun2021 20:12:27.421] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: duh_hell[/0:0:0:0:0:0:0:1:9775] logged in with entity id 37163 at (299.7386393769151, 64.0, -52.687878341083746)
+[06Jun2021 20:12:27.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell joined the game
+[06Jun2021 20:12:34.643] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[06Jun2021 20:16:43.048] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/37885, l='ServerLevel[apocalypse-now]', x=304.80, y=80.00, z=28.30]
+[06Jun2021 20:33:49.190] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: duh_hell lost connection: Disconnected
+[06Jun2021 20:33:49.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell left the game
+[06Jun2021 20:34:04.156] [User Authenticator #11/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
+[06Jun2021 20:34:08.436] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7c0f207a
+[06Jun2021 20:34:08.461] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: duh_hell[/0:0:0:0:0:0:0:1:9842] logged in with entity id 40315 at (302.0282419325556, 65.5, -51.28929195272698)
+[06Jun2021 20:34:08.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell joined the game
+[06Jun2021 20:34:13.523] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[06Jun2021 20:41:39.011] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: duh_hell lost connection: Disconnected
+[06Jun2021 20:41:39.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell left the game
+[06Jun2021 20:41:45.511] [User Authenticator #12/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
+[06Jun2021 20:41:48.751] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@275ece20
+[06Jun2021 20:41:48.784] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: duh_hell[/0:0:0:0:0:0:0:1:9878] logged in with entity id 41313 at (287.6961602942291, 64.0, -51.04593679101308)
+[06Jun2021 20:41:48.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell joined the game
+[06Jun2021 20:41:52.991] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[06Jun2021 20:42:59.241] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: duh_hell lost connection: Disconnected
+[06Jun2021 20:42:59.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell left the game
+[06Jun2021 20:45:38.059] [User Authenticator #13/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
+[06Jun2021 20:45:41.485] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@28dfc4c7
+[06Jun2021 20:45:41.509] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: duh_hell[/0:0:0:0:0:0:0:1:9894] logged in with entity id 41450 at (306.5245261501243, 64.0, -36.54648667740746)
+[06Jun2021 20:45:41.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell joined the game
+[06Jun2021 20:45:42.457] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[06Jun2021 21:03:19.440] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: duh_hell lost connection: Disconnected
+[06Jun2021 21:03:19.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell left the game
+[06Jun2021 21:06:47.201] [User Authenticator #14/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
+[06Jun2021 21:06:50.135] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@462edf3a
+[06Jun2021 21:06:50.159] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: duh_hell[/0:0:0:0:0:0:0:1:9933] logged in with entity id 43755 at (274.174956423873, 64.0, -25.24847888322665)
+[06Jun2021 21:06:50.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell joined the game
+[06Jun2021 21:06:54.742] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[06Jun2021 21:08:21.338] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: duh_hell lost connection: Disconnected
+[06Jun2021 21:08:21.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell left the game
+[06Jun2021 21:09:20.394] [User Authenticator #15/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
+[06Jun2021 21:09:23.486] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5c7ffe0f
+[06Jun2021 21:09:23.508] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: duh_hell[/0:0:0:0:0:0:0:1:9942] logged in with entity id 43931 at (311.54998923468423, 64.0, -26.07499998807907)
+[06Jun2021 21:09:23.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell joined the game
+[06Jun2021 21:09:24.444] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[06Jun2021 21:10:48.340] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: duh_hell lost connection: Disconnected
+[06Jun2021 21:10:48.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell left the game
+[06Jun2021 21:11:58.315] [User Authenticator #16/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
+[06Jun2021 21:12:01.234] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5078441e
+[06Jun2021 21:12:01.261] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: duh_hell[/0:0:0:0:0:0:0:1:9948] logged in with entity id 44247 at (271.7672003233741, 63.9375, -78.15206442408737)
+[06Jun2021 21:12:01.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell joined the game
+[06Jun2021 21:12:05.518] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[06Jun2021 21:14:12.041] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: duh_hell lost connection: Disconnected
+[06Jun2021 21:14:12.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell left the game
+[06Jun2021 21:15:31.881] [User Authenticator #17/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player duh_hell is de62381b-7b27-4b9b-ab00-7c89bf9e678b
+[06Jun2021 21:15:34.783] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@f9db35a
+[06Jun2021 21:15:34.806] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: duh_hell[/0:0:0:0:0:0:0:1:9952] logged in with entity id 44695 at (303.03455516396394, 64.0, -57.53051504693175)
+[06Jun2021 21:15:34.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell joined the game
+[06Jun2021 21:15:39.352] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[06Jun2021 21:16:43.350] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: duh_hell lost connection: Disconnected
+[06Jun2021 21:16:43.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: duh_hell left the game

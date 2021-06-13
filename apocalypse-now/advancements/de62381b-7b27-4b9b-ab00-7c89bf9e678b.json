@@ -2011,6 +2011,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2021-06-06 20:52:13 -0400",
       "minecraft:pig": "2021-05-08 22:35:37 -0400",
       "minecraft:sheep": "2021-05-05 23:52:50 -0400",
       "minecraft:cow": "2021-05-05 23:25:15 -0400",
@@ -3756,6 +3757,7 @@
     "criteria": {
       "minecraft:pillager": "2021-05-09 11:17:45 -0400",
       "minecraft:skeleton": "2021-05-17 00:04:28 -0400",
+      "minecraft:spider": "2021-06-05 22:49:20 -0400",
       "minecraft:creeper": "2021-05-07 01:17:57 -0400",
       "minecraft:zombie": "2021-05-19 20:19:07 -0400",
       "minecraft:drowned": "2021-05-20 01:01:13 -0400",
@@ -5140,6 +5142,7 @@
       "sweet_berries": "2021-05-04 00:30:50 -0400",
       "cooked_beef": "2021-05-06 00:10:26 -0400",
       "apple": "2021-05-04 00:05:42 -0400",
+      "poisonous_potato": "2021-06-06 21:10:21 -0400",
       "mutton": "2021-05-08 22:10:19 -0400",
       "bread": "2021-05-03 23:45:08 -0400",
       "suspicious_stew": "2021-05-07 23:17:58 -0400",
@@ -5147,6 +5150,7 @@
       "salmon": "2021-05-08 00:07:02 -0400",
       "melon_slice": "2021-05-07 12:32:49 -0400",
       "rabbit_stew": "2021-05-04 00:41:56 -0400",
+      "cooked_salmon": "2021-05-29 12:55:06 -0400",
       "carrot": "2021-05-08 22:26:51 -0400"
     },
     "done": false
@@ -6425,6 +6429,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "textures/entity/cat/all_black.png": "2021-06-06 20:42:52 -0400",
       "textures/entity/cat/red.png": "2021-05-08 22:48:57 -0400"
     },
     "done": false
