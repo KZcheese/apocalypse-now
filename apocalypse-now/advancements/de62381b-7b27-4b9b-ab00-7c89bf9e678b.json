@@ -845,6 +845,12 @@
     },
     "done": true
   },
+  "sewingkit:recipes/sewing_kit/diamond_sewing_needle": {
+    "criteria": {
+      "has_the_recipe": "2021-06-19 18:49:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
@@ -1229,6 +1235,12 @@
     },
     "done": true
   },
+  "sewingkit:recipes/misc/leather_horse_armor_via_sewing": {
+    "criteria": {
+      "has_the_recipe": "2021-06-19 18:49:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
@@ -1274,6 +1286,12 @@
   "biomesoplenty:recipes/building_blocks/white_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
+    },
+    "done": true
+  },
+  "sewingkit:recipes/sewing_kit/gold_sewing_needle": {
+    "criteria": {
+      "has_the_recipe": "2021-06-19 18:49:05 -0400"
     },
     "done": true
   },
@@ -2049,6 +2067,12 @@
     },
     "done": true
   },
+  "sewingkit:recipes/sewing_kit/leather_sheet_from_leather": {
+    "criteria": {
+      "has_the_recipe": "2021-06-19 18:49:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
@@ -2094,6 +2118,12 @@
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2021-05-05 23:54:01 -0400"
+    },
+    "done": true
+  },
+  "sewingkit:recipes/sewing_kit/wool_hat_via_sewing": {
+    "criteria": {
+      "has_the_recipe": "2021-06-19 18:49:05 -0400"
     },
     "done": true
   },
@@ -2334,6 +2364,12 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
+    },
+    "done": true
+  },
+  "sewingkit:recipes/combat/leather_boots_via_sewing": {
+    "criteria": {
+      "has_the_recipe": "2021-06-19 18:49:05 -0400"
     },
     "done": true
   },
@@ -2859,6 +2895,12 @@
     },
     "done": true
   },
+  "sewingkit:recipes/sewing_kit/netherite_sewing_needle": {
+    "criteria": {
+      "has_the_recipe": "2021-06-19 18:49:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
@@ -3108,6 +3150,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
+    },
+    "done": true
+  },
+  "sewingkit:recipes/sewing_kit/leather_strip_from_leather": {
+    "criteria": {
+      "has_the_recipe": "2021-06-19 18:49:05 -0400"
     },
     "done": true
   },
@@ -3603,6 +3651,12 @@
     },
     "done": true
   },
+  "sewingkit:recipes/sewing_kit/wool_shoes_via_sewing": {
+    "criteria": {
+      "has_the_recipe": "2021-06-19 18:49:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
@@ -3660,6 +3714,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
+    },
+    "done": true
+  },
+  "sewingkit:recipes/combat/leather_leggings_via_sewing": {
+    "criteria": {
+      "has_the_recipe": "2021-06-19 18:49:05 -0400"
     },
     "done": true
   },
@@ -4029,6 +4089,12 @@
     },
     "done": true
   },
+  "sewingkit:recipes/sewing_kit/wool_roll_from_carpet": {
+    "criteria": {
+      "has_the_recipe": "2021-06-19 18:49:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2021-05-05 23:54:01 -0400"
@@ -4173,6 +4239,12 @@
     },
     "done": true
   },
+  "sewingkit:recipes/sewing_kit/wool_pants_via_sewing": {
+    "criteria": {
+      "has_the_recipe": "2021-06-19 18:49:05 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/smooth_white_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
@@ -4278,6 +4350,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
+    },
+    "done": true
+  },
+  "sewingkit:recipes/sewing_kit/sewing_station": {
+    "criteria": {
+      "has_wood": "2021-06-19 18:49:05 -0400"
     },
     "done": true
   },
@@ -4425,6 +4503,12 @@
     },
     "done": true
   },
+  "sewingkit:recipes/sewing_kit/wool_shirt_via_sewing": {
+    "criteria": {
+      "has_the_recipe": "2021-06-19 18:49:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
@@ -4479,6 +4563,12 @@
     },
     "done": true
   },
+  "sewingkit:recipes/combat/leather_chestplate_via_sewing": {
+    "criteria": {
+      "has_the_recipe": "2021-06-19 18:49:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_carpet": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
@@ -4494,6 +4584,18 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
+    },
+    "done": true
+  },
+  "sewingkit:recipes/sewing_kit/storing_sewing_station": {
+    "criteria": {
+      "has_the_recipe": "2021-06-19 18:49:05 -0400"
+    },
+    "done": true
+  },
+  "sewingkit:recipes/sewing_kit/wool_roll_from_wool": {
+    "criteria": {
+      "has_the_recipe": "2021-06-19 18:49:05 -0400"
     },
     "done": true
   },
@@ -4980,6 +5082,12 @@
     },
     "done": true
   },
+  "sewingkit:recipes/sewing_kit/stone_sewing_needle": {
+    "criteria": {
+      "has_the_recipe": "2021-06-19 18:49:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
@@ -5407,6 +5515,12 @@
     },
     "done": true
   },
+  "sewingkit:recipes/sewing_kit/file": {
+    "criteria": {
+      "has_the_recipe": "2021-06-19 18:49:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
@@ -5446,6 +5560,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
+    },
+    "done": true
+  },
+  "sewingkit:recipes/combat/leather_helmet_via_sewing": {
+    "criteria": {
+      "has_the_recipe": "2021-06-19 18:49:05 -0400"
     },
     "done": true
   },
@@ -5713,6 +5833,12 @@
     },
     "done": true
   },
+  "sewingkit:recipes/sewing_kit/iron_sewing_needle": {
+    "criteria": {
+      "has_the_recipe": "2021-06-19 18:49:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
@@ -5848,6 +5974,12 @@
   "biomesoplenty:recipes/decorations/willow_fence": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
+    },
+    "done": true
+  },
+  "sewingkit:recipes/sewing_kit/bone_sewing_needle": {
+    "criteria": {
+      "has_the_recipe": "2021-06-19 18:49:05 -0400"
     },
     "done": true
   },
@@ -6034,6 +6166,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
+    },
+    "done": true
+  },
+  "sewingkit:recipes/sewing_kit/wood_sewing_needle": {
+    "criteria": {
+      "has_material": "2021-06-19 18:49:05 -0400"
     },
     "done": true
   },
@@ -6229,6 +6367,12 @@
     },
     "done": true
   },
+  "sewingkit:recipes/sewing_kit/leather_sheet_from_rabbit_hide": {
+    "criteria": {
+      "has_the_recipe": "2021-06-19 18:49:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
@@ -6310,6 +6454,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
+    },
+    "done": true
+  },
+  "sewingkit:recipes/sewing_kit/wool_trim_from_wool": {
+    "criteria": {
+      "has_the_recipe": "2021-06-19 18:49:05 -0400"
     },
     "done": true
   },
@@ -6503,6 +6653,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_the_recipe": "2021-04-23 21:37:35 -0400"
+    },
+    "done": true
+  },
+  "sewingkit:recipes/sewing_kit/wool_trim_from_carpet": {
+    "criteria": {
+      "has_the_recipe": "2021-06-19 18:49:05 -0400"
     },
     "done": true
   },
