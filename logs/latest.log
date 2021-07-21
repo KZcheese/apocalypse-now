@@ -1,35 +1,85 @@
-[27Jun2021 09:52:21.166] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Gnot is a996b7a2-d9ad-487a-b316-56bed66b77f0
-[27Jun2021 09:52:23.598] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@50a4b982
-[27Jun2021 09:52:23.627] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Gnot[/0:0:0:0:0:0:0:1:13512] logged in with entity id 16237 at (338.3526200512942, 64.0, -25.598602161867596)
-[27Jun2021 09:52:23.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot joined the game
-[27Jun2021 09:52:30.763] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[27Jun2021 09:56:45.754] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/16892, l='ServerLevel[apocalypse-now]', x=303.33, y=64.00, z=-29.91]
-[27Jun2021 09:59:55.155] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/17314, l='ServerLevel[apocalypse-now]', x=305.64, y=64.00, z=-28.12]
-[27Jun2021 10:11:32.402] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Gnot lost connection: Disconnected
-[27Jun2021 10:11:32.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot left the game
-[27Jun2021 10:12:54.799] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Gnot is a996b7a2-d9ad-487a-b316-56bed66b77f0
-[27Jun2021 10:12:57.347] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5377d55e
-[27Jun2021 10:12:57.368] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Gnot[/0:0:0:0:0:0:0:1:13562] logged in with entity id 20072 at (-413.30000001192093, 104.5, -638.923668038416)
-[27Jun2021 10:12:57.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot joined the game
-[27Jun2021 10:13:00.755] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[27Jun2021 10:17:42.104] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Gnot lost connection: Disconnected
-[27Jun2021 10:17:42.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot left the game
-[27Jun2021 23:15:44.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
-[27Jun2021 23:15:44.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 6.tcp.ngrok.io:16641 stop<--[HERE]
-[27Jun2021 23:15:46.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
-[27Jun2021 23:15:46.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: exit<--[HERE]
-[27Jun2021 23:15:47.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
-[27Jun2021 23:15:47.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: quit<--[HERE]
-[27Jun2021 23:15:49.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[27Jun2021 23:15:49.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[27Jun2021 23:15:49.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[27Jun2021 23:15:49.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[27Jun2021 23:15:49.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:overworld
-[27Jun2021 23:15:49.881] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apocalypse-now): All chunks are saved
-[27Jun2021 23:15:49.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:the_nether
-[27Jun2021 23:15:49.902] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[27Jun2021 23:15:49.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[apocalypse-now]'/minecraft:the_end
-[27Jun2021 23:15:49.906] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[27Jun2021 23:15:49.966] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apocalypse-now): All chunks are saved
-[27Jun2021 23:15:50.024] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[27Jun2021 23:15:50.038] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Jul2021 18:49:05.179] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Gnot is a996b7a2-d9ad-487a-b316-56bed66b77f0
+[03Jul2021 18:49:07.750] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@692432b0
+[03Jul2021 18:49:07.821] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Gnot[/0:0:0:0:0:0:0:1:1343] logged in with entity id 299 at (-420.9148726545619, 71.8500000178814, -643.6842529613594)
+[03Jul2021 18:49:07.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot joined the game
+[03Jul2021 18:49:14.767] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[03Jul2021 18:53:02.407] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 0.2987089734599522
+[03Jul2021 18:53:02.473] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 0.7631282449719947
+[03Jul2021 18:55:03.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot has completed the challenge [Uneasy Alliance]
+[03Jul2021 19:01:09.238] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 197e2e21-a1ba-4f15-8f0c-881b4af37f62. Existing quark:frog#2804, new: quark:frog#2804
+[03Jul2021 19:03:50.510] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 0.5646159195766813
+[03Jul2021 19:03:50.566] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 0.7730839340457578
+[03Jul2021 19:09:32.008] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Gnot lost connection: Disconnected
+[03Jul2021 19:09:32.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot left the game
+[03Jul2021 20:13:31.035] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Gnot is a996b7a2-d9ad-487a-b316-56bed66b77f0
+[03Jul2021 20:13:33.460] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3d068c90
+[03Jul2021 20:13:33.490] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Gnot[/0:0:0:0:0:0:0:1:1550] logged in with entity id 5704 at (-421.69999998807907, 71.0, -636.4476128976772)
+[03Jul2021 20:13:33.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot joined the game
+[03Jul2021 20:13:40.526] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[03Jul2021 20:35:57.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot has completed the challenge [Return to Sender]
+[03Jul2021 20:45:37.335] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player KZcheese is bab6f686-509a-44fb-92f2-a0cac24c4cf9
+[03Jul2021 20:45:39.835] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4455360d
+[03Jul2021 20:45:39.862] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: byg:gray_dye removed now.
+[03Jul2021 20:45:39.873] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: byg:gray_dye removed now.
+[03Jul2021 20:45:39.878] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KZcheese[/0:0:0:0:0:0:0:1:1608] logged in with entity id 11115 at (332.63901857976856, 71.0, -35.352142878495414)
+[03Jul2021 20:45:39.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KZcheese joined the game
+[03Jul2021 20:45:49.119] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[03Jul2021 20:49:43.116] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/12452, l='ServerLevel[apocalypse-now]', x=303.71, y=64.00, z=-27.19]
+[03Jul2021 20:52:57.880] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 0.2657764000472298
+[03Jul2021 21:04:57.127] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 0.27320430682053143
+[03Jul2021 21:04:57.198] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 0.86088484832689
+[03Jul2021 21:04:57.200] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 1.4305768778079937
+[03Jul2021 21:10:29.689] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 2c1017a0-5684-4654-a0d6-d1e55fe2846a. Existing quark:frog#17674, new: quark:frog#17674
+[03Jul2021 21:23:39.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KZcheese has completed the challenge [Return to Sender]
+[03Jul2021 21:23:39.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KZcheese has completed the challenge [Uneasy Alliance]
+[03Jul2021 21:29:05.351] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 0.2540888028502195
+[03Jul2021 21:29:05.354] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 0.6857385691396303
+[03Jul2021 21:29:05.412] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 1.0919592703341878
+[03Jul2021 21:29:05.417] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 1.4724431372009168
+[03Jul2021 21:46:20.452] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/24868, l='ServerLevel[apocalypse-now]', x=304.79, y=64.00, z=-27.16]
+[03Jul2021 21:46:20.453] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/24868, l='ServerLevel[apocalypse-now]', x=304.79, y=64.00, z=-27.16]
+[03Jul2021 21:52:22.313] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=332, y=46, z=15} BlockPos{x=331, y=46, z=16}
+[03Jul2021 21:52:23.110] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=333, y=46, z=13} BlockPos{x=333, y=44, z=14}
+[03Jul2021 21:52:23.180] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=333, y=46, z=13} BlockPos{x=333, y=44, z=14}
+[03Jul2021 21:52:25.205] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=334, y=46, z=14} BlockPos{x=333, y=44, z=14}
+[03Jul2021 21:52:25.259] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=334, y=46, z=14} BlockPos{x=333, y=44, z=14}
+[03Jul2021 21:52:25.261] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=334, y=46, z=14} BlockPos{x=333, y=44, z=14}
+[03Jul2021 21:52:25.332] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=334, y=46, z=14} BlockPos{x=333, y=44, z=14}
+[03Jul2021 21:52:25.410] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=334, y=46, z=14} BlockPos{x=333, y=44, z=14}
+[03Jul2021 21:52:25.413] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=334, y=46, z=14} BlockPos{x=333, y=44, z=14}
+[03Jul2021 21:52:25.472] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=334, y=46, z=14} BlockPos{x=333, y=44, z=14}
+[03Jul2021 21:52:25.560] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=334, y=46, z=14} BlockPos{x=333, y=44, z=14}
+[03Jul2021 21:52:33.665] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=338, y=47, z=11} BlockPos{x=339, y=46, z=11}
+[03Jul2021 21:52:35.710] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=339, y=48, z=11} BlockPos{x=340, y=47, z=10}
+[03Jul2021 21:55:10.708] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=296, y=66, z=-42} BlockPos{x=296, y=64, z=-42}
+[03Jul2021 21:58:04.755] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/26795, l='ServerLevel[apocalypse-now]', x=304.76, y=80.00, z=28.80]
+[03Jul2021 21:58:04.757] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/26795, l='ServerLevel[apocalypse-now]', x=304.76, y=80.00, z=28.80]
+[03Jul2021 22:02:07.800] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/27439, l='ServerLevel[apocalypse-now]', x=304.95, y=64.00, z=-29.12]
+[03Jul2021 22:02:07.803] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/27439, l='ServerLevel[apocalypse-now]', x=304.95, y=64.00, z=-29.12]
+[03Jul2021 22:05:31.554] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 0.29278427023034936
+[03Jul2021 22:05:31.611] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 0.4810460041900697
+[03Jul2021 22:05:31.615] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 0.5817811044978853
+[03Jul2021 22:08:37.915] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 0.29932646489749004
+[03Jul2021 22:08:37.957] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 0.855877719719274
+[03Jul2021 22:08:38.011] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 1.412709894366344
+[03Jul2021 22:10:20.909] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/28697, l='ServerLevel[apocalypse-now]', x=303.68, y=82.00, z=28.20]
+[03Jul2021 22:15:34.850] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KZcheese lost connection: Disconnected
+[03Jul2021 22:15:34.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KZcheese left the game
+[03Jul2021 22:17:09.202] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 0.33891632903635127
+[03Jul2021 22:17:09.258] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 0.8831108152216416
+[03Jul2021 22:17:09.351] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 1.4273087968301184
+[03Jul2021 22:17:09.353] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 1.9715086487698272
+[03Jul2021 22:19:38.651] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 0.519038046869305
+[03Jul2021 22:19:38.713] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 1.0516560258532301
+[03Jul2021 22:19:38.717] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 1.5903832844469754
+[03Jul2021 22:25:12.300] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 0.400534777638029
+[03Jul2021 22:25:12.353] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Gnot) moved wrongly! 0.8520388170416027
+[03Jul2021 22:59:29.304] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Gnot lost connection: Disconnected
+[03Jul2021 22:59:29.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot left the game
+[03Jul2021 22:59:53.560] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Gnot is a996b7a2-d9ad-487a-b316-56bed66b77f0
+[03Jul2021 22:59:55.948] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7336d522
+[03Jul2021 22:59:55.971] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Gnot[/0:0:0:0:0:0:0:1:1827] logged in with entity id 37720 at (328.72593581548574, 78.0, -39.666040234990696)
+[03Jul2021 22:59:55.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot joined the game
+[03Jul2021 22:59:59.882] [Server thread/ERROR] [journeymap/]: Failed to read message for worldId: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[03Jul2021 23:06:08.249] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Gnot lost connection: Disconnected
+[03Jul2021 23:06:08.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gnot left the game

@@ -3740,6 +3740,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2021-07-03 20:35:57 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:39:36 -0400"
@@ -3894,10 +3900,12 @@
     "criteria": {
       "minecraft:pillager": "2021-04-18 23:53:01 -0400",
       "minecraft:skeleton": "2021-04-19 00:05:29 -0400",
+      "minecraft:ghast": "2021-07-03 18:55:03 -0400",
       "minecraft:magma_cube": "2021-06-18 11:06:26 -0400",
       "minecraft:spider": "2021-05-07 22:34:16 -0400",
       "minecraft:creeper": "2021-04-20 20:28:24 -0400",
       "minecraft:phantom": "2021-04-18 20:44:06 -0400",
+      "minecraft:zombified_piglin": "2021-07-03 18:50:21 -0400",
       "minecraft:witch": "2021-05-17 16:18:14 -0400",
       "minecraft:husk": "2021-04-20 20:23:29 -0400",
       "minecraft:piglin": "2021-06-18 11:08:35 -0400",
@@ -5834,6 +5842,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:39:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2021-07-03 18:55:03 -0400"
     },
     "done": true
   },
