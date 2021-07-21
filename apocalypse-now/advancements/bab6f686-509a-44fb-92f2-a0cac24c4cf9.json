@@ -1457,6 +1457,12 @@
     },
     "done": true
   },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2021-07-21 17:16:28 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_the_recipe": "2021-04-18 19:19:50 -0400"

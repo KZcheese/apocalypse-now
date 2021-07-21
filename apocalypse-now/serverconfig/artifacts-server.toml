@@ -67,14 +67,17 @@
 		durability = 0
 
 	[items.helium_flamingo]
-		#The rate at which the player's air supply drains each tick while swimming outside of water (players have an air supply of 300)
-		#Set to 0 to allow swimming indefinitely, or 1 for vanilla drain rate
+		#The amount of time (in ticks) it takes for the helium flamingo to recharge
 		#Range: > 0
-		air_supply_drain_rate = 2
+		recharge_time = 300
 		#Affects how many seconds the player can fly using the helium flamingo before breaking
 		#Setting this to 0 will make this item unbreakable
 		#Range: 0 ~ 32767
 		durability = 0
+		#The maximum amount of time (in ticks) a player can fly using the helium flamingo
+		#Set to 0 to allow swimming indefinitely
+		#Range: > 0
+		max_flight_time = 150
 
 	[items.cloud_in_a_bottle]
 		#Affects how many times the player can double jump before breaking
@@ -225,13 +228,13 @@
 		durability = 0
 
 	[items.villager_hat]
-		#The level of the hero of the village effect applied by the villager hat
-		#Range: 0 ~ 128
-		hero_of_the_village_level = 2
 		#Affects how many trades can be completed using the villager hat
 		#Setting this to 0 will make this item unbreakable
 		#Range: 0 ~ 32767
 		durability = 0
+		#Affects how much prices are reduced by the villager hat
+		#Range: > 0
+		reputation_bonus = 100
 
 	[items.obsidian_skull]
 		#Affects how many times the fire resistance effect can be applied before breaking
