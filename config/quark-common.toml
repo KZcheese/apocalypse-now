@@ -273,13 +273,13 @@
 		"Cloud Level Bottom" = 127
 
 	[tools.ancient_tomes]
-		"Normal Upgrade Cost" = 10
-		"Valid Enchantments" = ["minecraft:feather_falling", "minecraft:thorns", "minecraft:sharpness", "minecraft:smite", "minecraft:bane_of_arthropods", "minecraft:knockback", "minecraft:fire_aspect", "minecraft:looting", "minecraft:sweeping", "minecraft:efficiency", "minecraft:unbreaking", "minecraft:fortune", "minecraft:power", "minecraft:punch", "minecraft:luck_of_the_sea", "minecraft:lure", "minecraft:loyalty", "minecraft:riptide", "minecraft:impaling", "minecraft:piercing"]
-		"Item Quality" = 2
 		#Set to 0 to not generate in Underwater Ruins
 		"Underwater Ruin Weight" = 0
+		"Normal Upgrade Cost" = 10
 		#Set to 0 to not generate in Woodland Mansions
 		"Woodland Mansion Weight" = 15
+		"Valid Enchantments" = ["minecraft:feather_falling", "minecraft:thorns", "minecraft:sharpness", "minecraft:smite", "minecraft:bane_of_arthropods", "minecraft:knockback", "minecraft:fire_aspect", "minecraft:looting", "minecraft:sweeping", "minecraft:efficiency", "minecraft:unbreaking", "minecraft:fortune", "minecraft:power", "minecraft:punch", "minecraft:luck_of_the_sea", "minecraft:lure", "minecraft:loyalty", "minecraft:riptide", "minecraft:impaling", "minecraft:piercing"]
+		"Item Quality" = 2
 		#Set to 0 to not generate in Dungeons
 		"Dungeon Weight" = 20
 		"Limit Break Upgrade Cost" = 30
